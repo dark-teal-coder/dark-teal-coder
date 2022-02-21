@@ -7,14 +7,15 @@
 - I want to see :maple_leaf: in person soon ... 
 
 # Eating Matters :yum:
-- :plate_with_cutlery: My favorite foods are: :pancakes: :waffle: :hamburger: :pizza: :fondue: :bento: :curry: :ramen: :spaghetti: :oden: :sushi: :dumpling: :takeout_box: ... 
-- :spoon: My favorite desserts are:	:ice_cream: :cookie: 	:cake: :custard: :doughnut: :cupcake: :honey_pot: ... 
-- :clinking_glasses: My favorite beverages are: :coffee: :tea: :cocktail: :cup_with_straw: :milk_glass: :tropical_drink: :bubble_tea:
+- :plate_with_cutlery: My favorite **foods** are: :pancakes: :waffle: :hamburger: :pizza: :fondue: :bento: :curry: :ramen: :spaghetti: :oden: :sushi: :dumpling: :takeout_box: ... 
+- :spoon: My favorite **desserts** are:	:ice_cream: :cookie: 	:cake: :custard: :doughnut: :cupcake: :honey_pot: ... 
+- :clinking_glasses: My favorite **beverages** are: :coffee: :tea: :cocktail: :cup_with_straw: :milk_glass: :tropical_drink: :bubble_tea:
 
 # Coding Matters :desktop_computer: 
 - `Python`
 - `Java`
 - `JavaScript`
+- `HTML` & `CSS`
 - `R`
 
 Check out my [Gists](https://gist.github.com/dark-teal-coder) for some code snippets :kissing_smiling_eyes:  
