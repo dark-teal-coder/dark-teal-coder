@@ -13,12 +13,28 @@
 
 # Coding Matters :desktop_computer: 
 - `Python`
+  - **Basic Syntax**
+  - variables, data types, string operations, arithmetic operators, assignment operators, comparison operators, logical operators, conditions, loops, functions, etc. 
+  - learned about some basic object-oriented programming (OOP) concepts including class/object, inheritance
+  - file handling
+  - exception handling
+  - regular expression (RegEx) with `re`
+  - data analysis with `pandas` 
+  - data visualization with `matplotlib` 
+  - web scrapping with `BeautifulSoup`
 - `Java`
+  - taken a course that covers basic `Java` syntax from variable up to basic OOP concepts 
+  - basic sorting algorithms 
 - `JavaScript`
+  - taken a course that covers basic `JavaScript` syntax to add interactivity to simple websites 
 - `HTML` & `CSS`
+  - taken a course that covers basic `HTML` and `CSS` syntax and simple website creation many years ago 
 - `R`
+  - taking a course at graduate level 
 
 Check out my [Gists](https://gist.github.com/dark-teal-coder) for some code snippets :kissing_smiling_eyes:  
+
+Last modified date: Feb 25, 2022 
 
 <!---
 dark-teal-coder/dark-teal-coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. You can click the Preview link to take a look at your changes.
