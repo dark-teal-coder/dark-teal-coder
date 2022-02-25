@@ -66,7 +66,7 @@ I'm taking a R programming course at graduate level. There are one midterm and o
 1. Go to GitHub. 
 2. Click into the remote repository that you want to get. 
 3. Click the [Code] button. 
-4. Choose [HTTPS] tab. 
+4. Choose the [HTTPS] tab. 
 5. Copy the HTTPS URL. 
 6. Open a command-line interface (CLI). 
 7. Change the directory (folder) to the one you want to put the entire remote repository in using the command `cd` followed by the directory path. 
