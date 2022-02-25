@@ -62,6 +62,18 @@ I'm taking a R programming course at graduate level. There are one midterm and o
 ### Syntax and Concepts
 - ...
 
+# How to Get a Remote Repository to Your Local Machine
+1. Go to GitHub. 
+2. Click into the remote repository that you want to get. 
+3. Click the [Code] button. 
+4. Choose [HTTPS] tab. 
+5. Copy the HTTPS URL. 
+6. Open a command-line interface (CLI). 
+7. Change the directory (folder) to the one you want to put the entire remote repository in using the command `cd` followed by the directory path. 
+8. Type `git clone` followed by the HTTPS URL you copied in Step 5. 
+9. Press [ENTER]. 
+*Note: no need to use `git init` before `git clone`*
+
 # References
 - [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
