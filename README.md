@@ -62,7 +62,8 @@ I'm taking a R programming course at graduate level. There are one midterm and o
 ### Syntax and Concepts
 - ...
 
-# How to Get a Remote Repository on GitHub to Your Local Machine
+# Git Matters
+## How to Get a Remote Repository on GitHub to Your Local Machine
 1. Go to GitHub. 
 2. Click into the remote repository that you want to get. 
 3. Click the [Code] button. 
