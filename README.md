@@ -7,12 +7,12 @@
 - I want to see :maple_leaf: in person soon ... 
 
 # Eating Matters :yum:
-## :plate_with_cutlery: Favorite **foods** 
-:pancakes: :waffle: :hamburger: :pizza: :fondue: :bento: :curry: :ramen: :spaghetti: :oden: :sushi: :dumpling: :takeout_box: ... 
-## :spoon: Favorite **desserts** 
-:ice_cream: :cookie: 	:cake: :custard: :doughnut: :cupcake: :honey_pot: ... 
-## :clinking_glasses: Favorite **beverages** 
-:coffee: :tea: :cocktail: :cup_with_straw: :milk_glass: :tropical_drink: :bubble_tea:
+- :plate_with_cutlery: Favorite **foods** 
+  :pancakes: :waffle: :hamburger: :pizza: :fondue: :bento: :curry: :ramen: :spaghetti: :oden: :sushi: :dumpling: :takeout_box: ... 
+- :spoon: Favorite **desserts** 
+  :ice_cream: :cookie: 	:cake: :custard: :doughnut: :cupcake: :honey_pot: ... 
+- :clinking_glasses: Favorite **beverages** 
+  :coffee: :tea: :cocktail: :cup_with_straw: :milk_glass: :tropical_drink: :bubble_tea:
 
 # Coding Matters :woman_technologist:
 - `Python`
@@ -55,8 +55,8 @@ Check out my [Gists](https://gist.github.com/dark-teal-coder) for some code snip
 # References
 - [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-Last modified date: Feb 25, 2022 
+*Last modified date: Feb 25, 2022*
 
 <!---
-dark-teal-coder/dark-teal-coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. You can click the Preview link to take a look at your changes.
+dark-teal-coder/dark-teal-coder is a special repository because its `README.md` (current file) appears on your GitHub profile. Click on [Preview] tab to take a look at your changes. 
 --->
