@@ -70,9 +70,10 @@ I'm taking a R programming course at graduate level. There are one midterm and o
 5. Copy the HTTPS URL. 
 6. Open a command-line interface (CLI). 
 7. Change the directory (folder) to the one you want to put the entire remote repository in using the command `cd` followed by the directory path. 
-8. Type `git clone` followed by the HTTPS URL you copied in Step 5. 
+8. Type `git clone` followed by the HTTPS URL you copied in Step 5[^note]. 
 9. Press [ENTER]. 
-*Note: no need to use `git init` before `git clone`*
+[^note]: 
+    No need to use `git init` before `git clone`. 
 
 # References
 - [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
