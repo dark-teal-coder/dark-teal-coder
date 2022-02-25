@@ -41,7 +41,11 @@
 - `HTML` & `CSS`
   - taken a course that covers basic `HTML` and `CSS` syntax and simple website creation many years ago 
 - `R`
-  - taking a course at graduate level 
+  - **Description**
+    - I'm taking a R programming course at graduate level. There are one midterm and one final that together contribute to 80% of the final course grade. 
+      - [x] CSCI E-5a R Programming 
+  - **Basic Syntax and Concepts**
+    - ...
 
 Check out my [Gists](https://gist.github.com/dark-teal-coder) for some code snippets :kissing_smiling_eyes:  
 
