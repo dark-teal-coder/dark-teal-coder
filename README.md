@@ -11,19 +11,30 @@
 - :spoon: My favorite **desserts** are:	:ice_cream: :cookie: 	:cake: :custard: :doughnut: :cupcake: :honey_pot: ... 
 - :clinking_glasses: My favorite **beverages** are: :coffee: :tea: :cocktail: :cup_with_straw: :milk_glass: :tropical_drink: :bubble_tea:
 
-# Coding Matters :desktop_computer: 
+# Coding Matters :woman_technologist:
 - `Python`
-  - **Basic Syntax**
-  - variables, data types, string operations, arithmetic operators, assignment operators, comparison operators, logical operators, conditions, loops, functions, etc. 
-  - learned about some basic object-oriented programming (OOP) concepts including class/object, inheritance
+  - **Description**
+    - I officially took 2 Python courses before - one at undergraduate level and another at graduate level. I received A- (max. A+) in the undergraduate course and A- (max. A) in the graduate course. 
+      [x] IS2240 Python Programming for Business [A-]
+      [x] CSCI E-7 Introduction to Python [A-]
+  - **Basic Syntax and Concepts**
+    - basic syntax, e.g., variables, data types, string operations, arithmetic operators, assignment operators, comparison operators, logical operators, conditions, loops, functions, etc. 
+    - basic object-oriented programming (OOP) concepts, e.g., class/object, methods, inheritance, etc.
+    - file handling
+    - exception handling
+  - **Applications**
+    - regular expression (RegEx) with `re`
+    - data analysis with `pandas` 
+    - data visualization with `matplotlib` 
+    - web scrapping with `BeautifulSoup`
+- `Java`
+  - **Description**
+    - I took the following course which used Java in my undergraduate studies. Lectures 11 to 13 were on Formal Language and the others focused mainly on Java syntax and concepts. It also touched on basic sorting algorithms. 
+      [x] LT3233 Computational Linguistics [A]
+  - basic `Java` syntax 
+  - basic object-oriented programming (OOP) concepts, e.g., class/object, methods, inheritance, etc. 
   - file handling
   - exception handling
-  - regular expression (RegEx) with `re`
-  - data analysis with `pandas` 
-  - data visualization with `matplotlib` 
-  - web scrapping with `BeautifulSoup`
-- `Java`
-  - taken a course that covers basic `Java` syntax from variable up to basic OOP concepts 
   - basic sorting algorithms 
 - `JavaScript`
   - taken a course that covers basic `JavaScript` syntax to add interactivity to simple websites 
