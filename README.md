@@ -64,17 +64,20 @@ I'm taking a R programming course at graduate level. There are one midterm and o
 
 # Git Matters
 ## How to Get a Remote Repository on GitHub to Your Local Machine
+Steps: 
 1. Go to GitHub. 
 2. Click into the remote repository that you want to get. 
 3. Click the [Code] button. 
 4. Choose the [HTTPS] tab. 
 5. Copy the HTTPS URL. 
 6. Open a command-line interface (CLI). 
-7. Change the directory (folder) to the one you want to put the entire remote repository in using the command `cd` followed by the directory path. 
-8. Type `git clone` followed by the HTTPS URL you copied in Step 5[^note]. 
+7. Change the directory (folder) to the one you want to put the entire remote repository in using the command `cd` followed by the directory path[^1]. 
+8. Type `git clone` followed by the HTTPS URL you copied in Step 5[^2]. 
 9. Press [ENTER]. 
-[^note]: 
-    No need to use `git init` before `git clone`. 
+[^1]: 
+    A folder with the same name and structure as the repository will appear in the exact directory in which the `git clone` command is used on your local machine. 
+[^2]: 
+    It is unnecessary to use `git init` before `git clone`. The cloned respository already has `.git` folder inside it. 
 
 # References
 - [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
