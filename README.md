@@ -112,7 +112,7 @@ Steps:
 [^6]: 
     This will capture a snapshot of the project's currently staged changes. 
 [^7]
-    If you created the remote repository without adding `README.md`, `.gitignore` and `LICENSE` filles, the default branch will be `master`. This command will change it to `main`. 
+    If you created the remote repository without adding `README.md`, `.gitignore` and `LICENSE` filles, the default branch will be `master`. This command will change it to     `main`. 
 [^8]:
     `origin` is a reference (name) pointing to the HTTPS URL of the remote repository. 
 [^9]: 
