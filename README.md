@@ -111,7 +111,7 @@ Steps:
     This will direct Git to save a snapshot of the current project state into the commit history. 
 [^6]: 
     This will capture a snapshot of the project's currently staged changes. 
-[^7]
+[^7]:
     If you created the remote repository without adding `README.md`, `.gitignore` and `LICENSE` filles, the default branch will be `master`. This command will change it to     `main`. 
 [^8]:
     `origin` is a reference (name) pointing to the HTTPS URL of the remote repository. 
