@@ -62,7 +62,7 @@ I'm taking a R programming course at graduate level. There are one midterm and o
 ### Syntax and Concepts
 - ...
 
-# Git Matters
+# Git Matters :octocat:
 
 This section contains common uses for Git These common uses are useful when you work on all the repositories. 
 
