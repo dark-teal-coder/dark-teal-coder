@@ -63,21 +63,50 @@ I'm taking a R programming course at graduate level. There are one midterm and o
 - ...
 
 # Git Matters
-## How to Get a Remote Repository on GitHub to Your Local Machine
+
+## Basic Steps to Get a Remote Repository on GitHub to Your Local Machine
 Steps: 
 1. Go to GitHub. 
 2. Click into the remote repository that you want to get. 
 3. Click the [Code] button. 
-4. Choose the [HTTPS] tab. 
+4. Select the [HTTPS] tab. 
 5. Copy the HTTPS URL. 
 6. Open a command-line interface (CLI). 
-7. Change the directory (folder) to the one you want to put the entire remote repository in using the command `cd` followed by the directory path[^1]. 
+7. Change the directory to the one you want to put the entire remote repository in using the `cd` command followed by the directory path[^1]. 
 8. Type `git clone` followed by the HTTPS URL you copied in Step 5[^2]. 
 9. Press [ENTER]. 
 [^1]: 
-    A folder with the same name and structure as the repository will appear in the exact directory in which the `git clone` command is used on your local machine. 
+    A folder with the same name and structure as the remote repository will appear in the exact directory in which the `git clone` command is used on your local machine. 
 [^2]: 
     It is unnecessary to use `git init` before `git clone`. The cloned respository already has `.git` folder inside it. 
+
+## Basic Steps to Create a New Repository
+Steps: 
+1. Go to your profile page on GitHub. 
+2. Select the [Repositories] tab. 
+3. Click the [New] button. 
+4. Give a name to your new repository under "Repository name". 
+5. Choose whether you want the repository to be [Public] or [Private]. 
+6. Click the [Create repository] button[^3]. 
+7. Open a command-line interface (CLI). 
+8. Navigate to the desired directory on your local machine using the `cd` command followed by the directory path[^4]. 
+9. Create a new folder using the same name of the remote repository just created using the `mkdir` command followed by the folder name. 
+10. Use the command `cd` followed by the folder name to go inside the newly created folder. 
+12. Type `git init` to let Git start tracking the folder. 
+13. Use `git add .` to add all the files inside the folder to the staging area[^5]. 
+14. Use `git commit -m "commit message"` to keep track of your progress and changes of the project[^6]. 
+15. Use `git branch -M main` to create a new branch in the repository and force-rename it "main"[^7]. 
+
+[^3]: 
+  You can also choose whether you want to add `README.md`, `.gitignore` and `LICENSE` filles to the newly created repository before clicking the [Create repository] button. 
+[^4]: 
+  You can also use "File Explorer" on Windows to do this. 
+[^5]: 
+  This will direct Git to save a snapshot of the current project state into the commit history. 
+[^6]: 
+  This will capture a snapshot of the project's currently staged changes. 
+[^7]
+  Before this step, there is no branch available remotely yet. If you created the remote repository without adding `README.md`, `.gitignore` and `LICENSE` filles, the default branch will be `master`. Therefore, this command will change it to `main`. 
 
 # References
 - [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
