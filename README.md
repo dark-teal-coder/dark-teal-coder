@@ -104,19 +104,19 @@ Steps:
 21. Use `git push -u origin main` to push the code from your local to the remote repository at the HTTPS URL stored in `origin`[^9]. 
 
 [^3]: 
-  You can also choose whether you want to add `README.md`, `.gitignore` and `LICENSE` filles to the newly created repository before clicking the [Create repository] button. 
+    You can also choose whether you want to add `README.md`, `.gitignore` and `LICENSE` filles to the newly created repository before clicking the [Create repository] button. 
 [^4]: 
-  You can also use "File Explorer" on Windows to do this. 
+    You can also use "File Explorer" on Windows to do this. 
 [^5]: 
-  This will direct Git to save a snapshot of the current project state into the commit history. 
+    This will direct Git to save a snapshot of the current project state into the commit history. 
 [^6]: 
-  This will capture a snapshot of the project's currently staged changes. 
+    This will capture a snapshot of the project's currently staged changes. 
 [^7]
-  If you created the remote repository without adding `README.md`, `.gitignore` and `LICENSE` filles, the default branch will be `master`. This command will change it to `main`. 
+    If you created the remote repository without adding `README.md`, `.gitignore` and `LICENSE` filles, the default branch will be `master`. This command will change it to `main`. 
 [^8]:
-  `origin` is a reference (name) pointing to the HTTPS URL of the remote repository. 
+    `origin` is a reference (name) pointing to the HTTPS URL of the remote repository. 
 [^9]: 
-  The `-u` options is a shorthand for `--set-upstream` which maps a local branch to a remote barnch. 
+    The `-u` options is a shorthand for `--set-upstream` which maps a local branch to a remote barnch. 
 
 # References
 - [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
