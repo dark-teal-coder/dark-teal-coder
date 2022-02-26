@@ -64,23 +64,23 @@ I'm taking a R programming course at graduate level. There are one midterm and o
 
 # Git Matters
 
-## Basic Steps to Get a Remote Repository on GitHub to Your Local Machine
+## Instructions to Get a Remote Repository on GitHub to Your Local Machine
 Steps: 
 1. Go to GitHub. 
-2. Click into the remote repository that you want to get. 
+2. Click into the target remote repository. 
 3. Click the [Code] button. 
 4. Select the [HTTPS] tab. 
 5. Copy the HTTPS URL. 
 6. Open a command-line interface (CLI). 
-7. Change the directory to the one you want to put the entire remote repository in using the `cd` command followed by the directory path[^1]. 
-8. Type `git clone` followed by the HTTPS URL you copied in Step 5[^2]. 
+7. Use the `cd` command followed by the directory path to change the directory to the one you want to put the entire remote repository in[^1]. 
+8. Type `git clone` followed by the HTTPS URL copied to clone a copy of the remote repository[^2]. 
 9. Press [ENTER]. 
 [^1]: 
     A folder with the same name and structure as the remote repository will appear in the exact directory in which the `git clone` command is used on your local machine. 
 [^2]: 
     It is unnecessary to use `git init` before `git clone`. The cloned respository already has `.git` folder inside it. 
 
-## Basic Steps to Create a New Repository
+## Instructions to Create a New Repository
 Steps: 
 1. Go to your profile page on GitHub. 
 2. Select the [Repositories] tab. 
@@ -93,15 +93,15 @@ Steps:
 9. Use the `mkdir` command followed by the name of the remote repository to create the corresponding local repository. 
 10. Use the `cd` command followed by the folder name to go inside it. 
 12. Type `git init` to let Git start tracking the local repository. 
-13. Use `git add .` to add all the files inside the local repository to the staging area[^5]. 
-14. Use `git commit -m "commit message"` to capture a snapshot of the currently staged changes in the repository[^6]. 
-15. Use `git branch -M main` to forcefully rename the default branch to "main"[^7]. 
+13. Type `git add .` to add all the files inside the local repository to the staging area[^5]. 
+14. Type `git commit -m "commit message"` to capture a snapshot of the currently staged changes in the repository[^6]. 
+15. Type `git branch -M main` to forcefully rename the default branch to "main"[^7]. 
 16. Click into the remote repository.
 17. Click the [Code] button. 
 18. Select the [HTTPS] tab. 
 19. Copy the HTTPS URL. 
-20. Use the command `git remote add origin` followed by the HTTPS URL to add the remote repository's reference to the local repository[^8]. 
-21. Use `git push -u origin main` to push the code from your local to the `main` branch of the remote repository at the HTTPS URL referenced by `origin`[^9]. 
+20. Type `git remote add origin` followed by the HTTPS URL to add the remote repository's reference to the local repository[^8]. 
+21. Type `git push -u origin main` to push the code from your local to the `main` branch of the remote repository at the HTTPS URL referenced by `origin`[^9]. 
 
 [^3]: 
     You can also choose whether you want to add `README.md`, `.gitignore` and `LICENSE` filles to the newly created repository before clicking the [Create repository] button. 
