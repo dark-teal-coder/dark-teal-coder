@@ -120,7 +120,7 @@ Steps:
 [^9]: 
     The `-u` options is a shorthand for `--set-upstream` which is used to map a local branch to a remote barnch. 
 
-## Error: `error: failed to push some refs to`
+## Error: `failed to push some refs to 'https://github.com/....git'`
 <ins>Cause</ins>: The remote repository contains work that you do not have locally. 
 <br />
 <ins>Fix</ins>: Integrate the remote changes using the following command:
@@ -128,8 +128,8 @@ Steps:
 git pull origin main
 ```
 
-## Error: `fatal: refusing to merge unrelated histories`
-<ins>Cause</ins>: Two respositories have mismatching histories and are considered unrelated.  
+## Error: `refusing to merge unrelated histories`
+<ins>Cause</ins>: Two respositories have mismatching histories and are considered unrelated. 
 <br />
 <ins>Fix</ins>: Add the following option to allow unrelated histories to be merged:
 ```
