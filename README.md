@@ -96,6 +96,12 @@ Steps:
 13. Use `git add .` to add all the files inside the folder to the staging area[^5]. 
 14. Use `git commit -m "commit message"` to keep track of your progress and changes of the project[^6]. 
 15. Use `git branch -M main` to create a new branch in the repository and force-rename it "main"[^7]. 
+16. Click into the remote repository.
+17. Click the [Code] button. 
+18. Select the [HTTPS] tab. 
+19. Copy the HTTPS URL. 
+20. Use the command `git remote add origin` followed by the HTTPS URL to inform Git which remote repository you want to work with the current local repository[^8]. 
+21. Use `git push -u origin main` to push the code from your local to the remote repository at the HTTPS URL stored in `origin`[^9]. 
 
 [^3]: 
   You can also choose whether you want to add `README.md`, `.gitignore` and `LICENSE` filles to the newly created repository before clicking the [Create repository] button. 
@@ -106,7 +112,11 @@ Steps:
 [^6]: 
   This will capture a snapshot of the project's currently staged changes. 
 [^7]
-  Before this step, there is no branch available remotely yet. If you created the remote repository without adding `README.md`, `.gitignore` and `LICENSE` filles, the default branch will be `master`. Therefore, this command will change it to `main`. 
+  If you created the remote repository without adding `README.md`, `.gitignore` and `LICENSE` filles, the default branch will be `master`. This command will change it to `main`. 
+[^8]:
+  `origin` is a reference (name) pointing to the HTTPS URL of the remote repository. 
+[^9]: 
+  The `-u` options is a shorthand for `--set-upstream` which maps a local branch to a remote barnch. 
 
 # References
 - [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
