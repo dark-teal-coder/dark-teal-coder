@@ -85,38 +85,38 @@ Steps:
 1. Go to your profile page on GitHub. 
 2. Select the [Repositories] tab. 
 3. Click the [New] button. 
-4. Give a name to your new repository under "Repository name". 
-5. Choose whether you want the repository to be [Public] or [Private]. 
+4. Name the new repository under "Repository name". 
+5. Choose whether the repository should be [Public] or [Private]. 
 6. Click the [Create repository] button[^3]. 
 7. Open a command-line interface (CLI). 
-8. Navigate to the desired directory on your local machine using the `cd` command followed by the directory path[^4]. 
-9. Create a new folder using the same name of the remote repository just created using the `mkdir` command followed by the folder name. 
-10. Use the command `cd` followed by the folder name to go inside the newly created folder. 
-12. Type `git init` to let Git start tracking the folder. 
-13. Use `git add .` to add all the files inside the folder to the staging area[^5]. 
-14. Use `git commit -m "commit message"` to keep track of your progress and changes of the project[^6]. 
-15. Use `git branch -M main` to create a new branch in the repository and force-rename it "main"[^7]. 
+8. Use the `cd` command followed by the directory path to navigate to the desired directory on your local machine[^4]. 
+9. Use the `mkdir` command followed by the name of the remote repository to create the corresponding local repository. 
+10. Use the `cd` command followed by the folder name to go inside it. 
+12. Type `git init` to let Git start tracking the local repository. 
+13. Use `git add .` to add all the files inside the local repository to the staging area[^5]. 
+14. Use `git commit -m "commit message"` to capture a snapshot of the currently staged changes in the repository[^6]. 
+15. Use `git branch -M main` to forcefully rename the default branch to "main"[^7]. 
 16. Click into the remote repository.
 17. Click the [Code] button. 
 18. Select the [HTTPS] tab. 
 19. Copy the HTTPS URL. 
-20. Use the command `git remote add origin` followed by the HTTPS URL to inform Git which remote repository you want to work with the current local repository[^8]. 
-21. Use `git push -u origin main` to push the code from your local to the remote repository at the HTTPS URL stored in `origin`[^9]. 
+20. Use the command `git remote add origin` followed by the HTTPS URL to add the remote repository's reference to the local repository[^8]. 
+21. Use `git push -u origin main` to push the code from your local to the `main` branch of the remote repository at the HTTPS URL referenced by `origin`[^9]. 
 
 [^3]: 
     You can also choose whether you want to add `README.md`, `.gitignore` and `LICENSE` filles to the newly created repository before clicking the [Create repository] button. 
 [^4]: 
-    You can also use "File Explorer" on Windows to do this. 
+    You can also use the file manager application in your system to do this. 
 [^5]: 
     This will direct Git to save a snapshot of the current project state into the commit history. 
 [^6]: 
-    This will capture a snapshot of the project's currently staged changes. 
+    This will tell Git to keep track of the progress and changes of the project so that you can recall or revert to the committed changes at a later date. 
 [^7]:
-    If you created the remote repository without adding `README.md`, `.gitignore` and `LICENSE` filles, the default branch will be `master`. This command will change it to     `main`. 
+    If you create a remote repository without adding a file (including `README.md`, `.gitignore` and `LICENSE`) inside, there will not be any branch yet. Once you add one or more files to the remote repository, the default branch will be `main` on GitHub. But when you `git add` files in the corresponding local repository, the default branch will be `master`. Therefore, you need to use `git branch -M main` to rename the local branch from `master` to `main` to match the remote repository branch setting. 
 [^8]:
-    `origin` is a reference (name) pointing to the HTTPS URL of the remote repository. 
+    `origin` references the HTTPS URL to the remote repository to push to from/pull from to the local repository. 
 [^9]: 
-    The `-u` options is a shorthand for `--set-upstream` which maps a local branch to a remote barnch. 
+    The `-u` options is a shorthand for `--set-upstream` which is used to map a local branch to a remote barnch. 
 
 # References
 - [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
@@ -124,7 +124,7 @@ Steps:
 
 <br />
 
-*Last modified date: Feb 25, 2022*
+*Last modified date: Feb 26, 2022*
 
 <!---
 dark-teal-coder/dark-teal-coder is a special repository because its `README.md` (current file) appears on your GitHub profile. Click on [Preview] tab to take a look at your changes. 
