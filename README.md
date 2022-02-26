@@ -64,7 +64,9 @@ I'm taking a R programming course at graduate level. There are one midterm and o
 
 # Git Matters
 
-## Instructions to Get a Remote Repository on GitHub to Your Local Machine
+This section contains common uses for Git These common uses are useful when you work on all the repositories. 
+
+## How to Get a Remote Repository on GitHub to Your Local Machine
 Steps: 
 1. Go to GitHub. 
 2. Click into the target remote repository. 
@@ -80,7 +82,7 @@ Steps:
 [^2]: 
     It is unnecessary to use `git init` before `git clone`. The cloned respository already has `.git` folder inside it. 
 
-## Instructions to Create a New Repository
+## How to Create a New Repository
 Steps: 
 1. Go to your profile page on GitHub. 
 2. Select the [Repositories] tab. 
@@ -117,6 +119,22 @@ Steps:
     `origin` references the HTTPS URL to the remote repository to push to from/pull from to the local repository. 
 [^9]: 
     The `-u` options is a shorthand for `--set-upstream` which is used to map a local branch to a remote barnch. 
+
+## Error: `error: failed to push some refs to`
+<ins>Cause</ins>: The remote repository contains work that you do not have locally. 
+<br />
+<ins>Fix</ins>: Integrate the remote changes using the following command:
+```
+git pull origin main
+```
+
+## Error: `fatal: refusing to merge unrelated histories`
+<ins>Cause</ins>: Two respositories have mismatching histories and are considered unrelated.  
+<br />
+<ins>Fix</ins>: Add the following option to allow unrelated histories to be merged:
+```
+git pull origin main --allow-unrelated-histories
+```
 
 # References
 - [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
