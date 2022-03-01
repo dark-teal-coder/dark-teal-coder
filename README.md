@@ -62,6 +62,9 @@ I'm taking a R programming course at graduate level. There are one midterm and o
 ### Syntax and Concepts
 - ...
 
+# Project Matters 
+- [Job Bank WebScraper and Data Analyzer](https://github.com/dark-teal-coder/HarvardGraduate/tree/main/introduction-to-python/project)
+
 # Git Matters <img src="https://user-images.githubusercontent.com/95575665/156106892-1eba2917-c3bc-43d8-99f4-5360d4691a47.png" alt="github-desktop-teal.png" width="26" height="26"> 
 
 This section contains common uses for Git These common uses are useful for all the repositories. 
