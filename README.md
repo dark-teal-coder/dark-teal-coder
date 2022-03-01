@@ -64,7 +64,7 @@ I'm taking a R programming course at graduate level. There are one midterm and o
 
 # Git Matters <img src="https://user-images.githubusercontent.com/95575665/156106892-1eba2917-c3bc-43d8-99f4-5360d4691a47.png" alt="github-desktop-teal.png" width="26" height="26"> 
 
-This section contains common uses for Git These common uses are useful when you work on all the repositories. 
+This section contains common uses for Git These common uses are useful for all the repositories. 
 
 ## How to Get a Remote Repository on GitHub to Your Local Machine
 Steps: 
@@ -119,6 +119,21 @@ Steps:
     `origin` references the HTTPS URL to the remote repository to push to from/pull from to the local repository. 
 [^9]: 
     The `-u` options is a shorthand for `--set-upstream` which is used to map a local branch to a remote barnch. 
+
+## Extra: How to Set Up a Local Branch to Track a Remote Branch
+### Case 01
+<ins>Background</ins>: You are currently on the `main` branch and have added a remote reference `origin`. 
+<br />
+<ins>Full Command</ins>: ```git branch --set-upstream-to=origin/main main```
+<br />
+<ins>Short Command</ins>: ```git branch -u origin/main main```
+
+### Case 02
+<ins>Background</ins>: You are not currently on the `main` branch and have added a remote reference `origin`. 
+<br />
+<ins>Full Command</ins>: ```git branch --set-upstream-to=origin/main```
+<br />
+<ins>Short Command</ins>: ```git branch -u origin/main```
 
 ## Error: `failed to push some refs to 'https://github.com/....git'`
 <ins>Cause</ins>: The remote repository contains work that you do not have locally. 
