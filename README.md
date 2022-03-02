@@ -64,6 +64,7 @@ I'm taking a R programming course at graduate level. There are one midterm and o
 
 # Project Matters 
 - [Job Bank WebScraper and Data Analyzer](https://github.com/dark-teal-coder/HarvardGraduate/tree/main/introduction-to-python/project)
+- [Washington Post Web Scraper](https://github.com/dark-teal-coder/project-web-scraping-news)
 
 # Git Matters <img src="https://user-images.githubusercontent.com/95575665/156106892-1eba2917-c3bc-43d8-99f4-5360d4691a47.png" alt="github-desktop-teal.png" width="26" height="26"> 
 
