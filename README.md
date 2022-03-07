@@ -63,8 +63,10 @@ I'm taking a R programming course at graduate level. There are one midterm and o
 - ...
 
 # Project Matters 
-- [Job Bank Web Scraper and Data Analyzer](https://github.com/dark-teal-coder/HarvardGraduate/tree/main/introduction-to-python/project)
+- [Job Bank Web Scraper and Data Analyzer](https://github.com/dark-teal-coder/harvard-graduate/tree/main/introduction-to-programming-with-python/project)
+    - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "harvard-graduate" repository >> Choose "introduction-to-programming-with-python" sub-directory >> Choose "project" sub-directory 
 - [Washington Post Web Scraper](https://github.com/dark-teal-coder/project-web-scraping-news)
+    - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "project-web-scraping-news" repository 
 
 # Git Matters <img src="https://user-images.githubusercontent.com/95575665/156106892-1eba2917-c3bc-43d8-99f4-5360d4691a47.png" alt="github-desktop-teal.png" width="26" height="26"> 
 
