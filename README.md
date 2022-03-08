@@ -165,6 +165,7 @@ Common case types are: camelCase, kebab-case, PascalCase, snake_case, Title Case
 - Portable Document Format: `Title Case.pdf`
 - [R](http://web.stanford.edu/class/cs109l/unrestricted/resources/google-style.html): `kebab-case.R`
 - [JavaScript](https://google.github.io/styleguide/jsguide.html#file-name): `snake_case.js`
+- [Hypertext Markup Language](https://developers.google.com/style/filenames#naming-guidelines): `kebab-case.html`
 
 # References
 - [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
