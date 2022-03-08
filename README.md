@@ -157,6 +157,15 @@ git pull origin main
 git pull origin main --allow-unrelated-histories
 ```
 
+# Naming Conventions
+Common case types are: camelCase, kebab-case, PascalCase, snake_case, Title Case, etc.
+- [Java](https://www.oracle.com/java/technologies/javase/codeconventions-namingconventions.html): `PascalCase.java`
+- [Jupyter Notebook](https://docs.jupyter.org/en/latest/contributing/ipython-dev-guide/coding_style.html): `snake_case.ipynb`
+- [Python](https://www.python.org/dev/peps/pep-0008/#package-and-module-names): `snake_case.py`
+- Portable Document Format: `Title Case.pdf`
+- [R](http://web.stanford.edu/class/cs109l/unrestricted/resources/google-style.html): `kebab-case.R`
+- [JavaScript](https://google.github.io/styleguide/jsguide.html#file-name): `snake_case.js`
+
 # References
 - [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
