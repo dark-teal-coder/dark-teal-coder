@@ -95,6 +95,8 @@ These are IDEs I know how to use, in the order I learned to use them.
 
 > CLI = Command Line Interface
 
+These are CLIs I know how to use, in the order I learned to use them. 
+
 1. Windows Command Prompt ![Windows CMD badge](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 2. Windows Powershell ![Powershell badge](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 3. Git ![Git badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
