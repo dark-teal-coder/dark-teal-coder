@@ -76,7 +76,7 @@ I've taken the following undergraduate course that covers basic HTML and CSS syn
 
 ## ![R badge](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) R `.rmd` 
 ### Description
-I'm taking a R programming course at graduate level. There are one midterm and one final that together contribute to 80% of the final course grade. 
+I withdrew the R programming course at graduate level as I just got a new full-time job but I've saved most of the code and reading materials before the course locked me out. There are one midterm and one final that together contribute to 80% of the final course grade. 
 - [x] CSCI E-5a R Programming [withdrawn]
 ### Contents
 - Week 00 Course Orientation
