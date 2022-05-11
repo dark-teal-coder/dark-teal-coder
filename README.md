@@ -1,8 +1,5 @@
 Check out my [Gists](https://gist.github.com/dark-teal-coder) for some code snippets :kissing_smiling_eyes:  
 
-Test: 
-![Testing image](https://github.com/dark-teal-coder/dark-teal-coder/blob/main/images/coder-black-background-000-128-128.png)
-
 # Me Matters <img src="https://user-images.githubusercontent.com/95575665/156106892-1eba2917-c3bc-43d8-99f4-5360d4691a47.png" alt="github-desktop-teal.png" width="26" height="26">
 
 - 👋 Hi, I’m [@dark-teal-coder](https://github.com/dark-teal-coder/dark-teal-coder)
