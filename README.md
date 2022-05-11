@@ -24,7 +24,7 @@ Check out my [Gists](https://gist.github.com/dark-teal-coder) for some code snip
 
 # Coding Matters :woman_technologist:
 
-## Python `.py` & `.ipynb` ![Python badge](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+## Python `.py` & `.ipynb` ![Python badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ### Description
 I've officially taken 2 Python courses before - one at undergraduate level and another at graduate level. I've also written some real-world applications in Python in one of my full-time jobs.  
 - [x] IS2240 Python Programming for Business [A-]
