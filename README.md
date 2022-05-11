@@ -18,7 +18,7 @@ Check out my [Gists](https://gist.github.com/dark-teal-coder) for some code snip
 
 # Learning Matters :nerd_face:
 
-If completion date is 0000/00/00, it means incomplete. 
+Use YYYY/MM/DD format for completion date. If completion date is 0000/00/00, it means incomplete. 
 
 ## ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) 
 | **Course** | **Completion Date** | **Certificate** |
