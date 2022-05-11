@@ -1,4 +1,4 @@
-# Git Matters ![Git badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+# Git Notes ![Git badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 This section contains common uses for Git These common uses are useful for all the repositories. 
 
