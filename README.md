@@ -78,8 +78,19 @@ I've taken the following undergraduate course that covers basic HTML and CSS syn
 ### Description
 I'm taking a R programming course at graduate level. There are one midterm and one final that together contribute to 80% of the final course grade. 
 - [x] CSCI E-5a R Programming [withdrawn]
-### Syntax and Concepts
-- ...
+### Contents
+- Week 00 Course Orientation
+- Week 01 Basic R Graphics
+- Week 02 Numeric Values
+- Week 03 Vectors
+- Week 04 Iteration
+- Week 05 Logical Values
+- Week 06 Categorical Data
+- Week 08 Strings and Functions
+- Week 09 Data Frames
+- Week 10 Managing Data
+- Week 11 Summarizing Data
+- Week 12 ggplot2
 
 # Project Matters 
 
