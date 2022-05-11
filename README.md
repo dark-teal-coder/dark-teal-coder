@@ -105,6 +105,7 @@ These are IDEs I know how to use, in the order I learned to use them.
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Microsoft](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)
 ![PyPi](https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 
 # Git Matters <img src="https://user-images.githubusercontent.com/95575665/156106892-1eba2917-c3bc-43d8-99f4-5360d4691a47.png" alt="github-desktop-teal.png" width="26" height="26"> 
 
