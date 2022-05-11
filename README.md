@@ -1,6 +1,6 @@
 Check out my [Gists](https://gist.github.com/dark-teal-coder) for some code snippets :kissing_smiling_eyes:  
 
-# Me Matters :girl: 
+# Me Matters <img src="https://user-images.githubusercontent.com/95575665/156106892-1eba2917-c3bc-43d8-99f4-5360d4691a47.png" alt="github-desktop-teal.png" width="26" height="26">
 
 - 👋 Hi, I’m [@dark-teal-coder](https://github.com/dark-teal-coder/dark-teal-coder)
 - :heart_eyes: I’m interested in :infinity: Mathematics, :octocat: coding, :statue_of_liberty: English, <img src="https://user-images.githubusercontent.com/95575665/156106134-4ef0f544-7537-49b5-88b8-7d6ccb3972a8.png" alt="youtube_social_icon_white" width="15" height="10"> YouTube and :flight_departure: traveling ...
@@ -120,7 +120,7 @@ These are CLIs I know how to use, in the order I learned to use them.
 ![PyPi](https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 
-# Git Matters <img src="https://user-images.githubusercontent.com/95575665/156106892-1eba2917-c3bc-43d8-99f4-5360d4691a47.png" alt="github-desktop-teal.png" width="26" height="26"> 
+# Git Matters ![Git badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 This section contains common uses for Git These common uses are useful for all the repositories. 
 
