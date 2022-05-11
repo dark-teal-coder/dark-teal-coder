@@ -16,7 +16,7 @@ Check out my [Gists](https://gist.github.com/dark-teal-coder) for some code snip
 - :spoon: Favorite **desserts**: :ice_cream: :cookie: 	:cake: :custard: :doughnut: :cupcake: :honey_pot: ... 
 - :clinking_glasses: Favorite **beverages**: :coffee: :tea: :cocktail: :cup_with_straw: :milk_glass: :tropical_drink: :bubble_tea: ... 
 
-# Learning Matters 
+# Learning Matters :nerd_face:
 
 ## ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) 
 | **Course** | **Completion Date** | **Certificate** |
