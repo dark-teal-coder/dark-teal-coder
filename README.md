@@ -16,6 +16,11 @@ Check out my [Gists](https://gist.github.com/dark-teal-coder) for some code snip
 - :spoon: Favorite **desserts**: :ice_cream: :cookie: 	:cake: :custard: :doughnut: :cupcake: :honey_pot: ... 
 - :clinking_glasses: Favorite **beverages**: :coffee: :tea: :cocktail: :cup_with_straw: :milk_glass: :tropical_drink: :bubble_tea: ... 
 
+# Learning Matters 
+![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)
+![EdX](https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white)
+![freeCodeCamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)
+
 # Coding Matters :woman_technologist:
 
 ## Python `.py` & `.ipynb`
@@ -67,6 +72,12 @@ I'm taking a R programming course at graduate level. There are one midterm and o
     - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "harvard-graduate" repository >> Choose "introduction-to-programming-with-python" sub-directory >> Choose "project" sub-directory 
 - [Washington Post Web Scraper](https://github.com/dark-teal-coder/project-web-scraping-news)
     - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "project-web-scraping-news" repository 
+
+# Framework Matters 
+![GitBook](https://img.shields.io/badge/GitBook-7B36ED?style=for-the-badge&logo=gitbook&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Microsoft](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)
+![PyPi](https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white)
 
 # Git Matters <img src="https://user-images.githubusercontent.com/95575665/156106892-1eba2917-c3bc-43d8-99f4-5360d4691a47.png" alt="github-desktop-teal.png" width="26" height="26"> 
 
@@ -173,6 +184,7 @@ Common case types are: camelCase, kebab-case, PascalCase, snake_case, Title Case
 # References
 - [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+- [Welcome! Badges 4 README.md Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
 
 <br />
 
