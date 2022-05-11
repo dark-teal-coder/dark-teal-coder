@@ -17,6 +17,7 @@ Check out my [Gists](https://gist.github.com/dark-teal-coder) for some code snip
 - :clinking_glasses: Favorite **beverages**: :coffee: :tea: :cocktail: :cup_with_straw: :milk_glass: :tropical_drink: :bubble_tea: ... 
 
 # Learning Matters 
+
 ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)
 ![EdX](https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white)
 ![freeCodeCamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)
@@ -68,12 +69,30 @@ I'm taking a R programming course at graduate level. There are one midterm and o
 - ...
 
 # Project Matters 
+
 - [Job Bank Web Scraper and Data Analyzer](https://github.com/dark-teal-coder/harvard-graduate/tree/main/introduction-to-programming-with-python/project)
     - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "harvard-graduate" repository >> Choose "introduction-to-programming-with-python" sub-directory >> Choose "project" sub-directory 
 - [Washington Post Web Scraper](https://github.com/dark-teal-coder/project-web-scraping-news)
     - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "project-web-scraping-news" repository 
 
+# IDE Matters 
+
+> IDE = Integrated Development Environment
+
+These are IDEs I know how to use, in the order I learned to use them. 
+
+- The very first "IDE" I used when I started learning to write HTML, CSS and JavaScript: 
+![Notepad++ badge](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
+- First learned to run Java in an instructor-led class outside university: 
+![Eclipse badge](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+- First learned to use it in a Python class after learning Java in my undergraduate: ![PyCharm badge](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+- First time coming across Jupyter Notebook was when my colleague told me about it: ![Jupyter Notebook badge](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+- Then, later towards the end of my 1st IT job, I switched from Notepad++ to VS Code: ![VS Code badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+- Well, I found out about this Colab integration with GitHub from a freeCodeCamp course, which can bypass the problem of code cells in Jupyter notebooks not able to run on GitHub: 
+![Google Colab badge](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+
 # Framework Matters 
+
 ![GitBook](https://img.shields.io/badge/GitBook-7B36ED?style=for-the-badge&logo=gitbook&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Microsoft](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)
@@ -169,13 +188,14 @@ git pull origin main --allow-unrelated-histories
 ```
 
 # References
+
 - [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 - [Welcome! Badges 4 README.md Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
 
 <br />
 
-*Last modified date: Mar 02, 2022*
+*Last modified date: May 12, 2022*
 
 <!---
 dark-teal-coder/dark-teal-coder is a special repository because its `README.md` (current file) appears on your GitHub profile. Click on [Preview] tab to take a look at your changes. 
