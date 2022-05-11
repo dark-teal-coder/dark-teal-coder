@@ -24,7 +24,7 @@ Check out my [Gists](https://gist.github.com/dark-teal-coder) for some code snip
 
 # Coding Matters :woman_technologist:
 
-## Python `.py` & `.ipynb`
+## Python `.py` & `.ipynb` ![Python badge](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ### Description
 I've officially taken 2 Python courses before - one at undergraduate level and another at graduate level. I've also written some real-world applications in Python in one of my full-time jobs.  
 - [x] IS2240 Python Programming for Business [A-]
@@ -42,7 +42,7 @@ I've officially taken 2 Python courses before - one at undergraduate level and a
 - data visualization with `matplotlib` 
 - web scrapping with `requests` & `BeautifulSoup`
 
-## Java `.java` & `.class`
+## Java `.java` & `.class` ![Java badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ### Description
 I've taken the following course which used Java in my undergraduate studies. Lectures 11 to 13 were on Formal Language and the others focused mainly on Java syntax and concepts. This cousre also touched on basic sorting algorithms. 
 - [x] LT3233 Computational Linguistics [A]
@@ -54,14 +54,14 @@ I've taken the following course which used Java in my undergraduate studies. Lec
 - recursion 
 - basic sorting algorithms 
 
-## HTML, CSS & JavaScript `.html` & `.css` & `.js`
+## HTML, CSS & JavaScript `.html` & `.css` & `.js` ![HTML5 badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS badge](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![JavaScript badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ### Description
 I've taken the following undergraduate course that covers basic HTML and CSS syntax to create simple websites and JavaScript syntax to add interactivity to the websites many years ago. 
 - [x] LT3210 Electronic Publishing [A]
 ### Syntax and Concepts
 - ...
 
-## R `.rmd`
+## R `.rmd` ![R badge](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ### Description
 I'm taking a R programming course at graduate level. There are one midterm and one final that together contribute to 80% of the final course grade. 
 - [x] CSCI E-5a R Programming []
@@ -201,6 +201,7 @@ git pull origin main --allow-unrelated-histories
 - [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 - [Welcome! Badges 4 README.md Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
+- [Badges for GitHub](https://dev.to/envoy_/150-badges-for-github-pnk)
 
 <br />
 
