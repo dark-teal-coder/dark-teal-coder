@@ -2,7 +2,9 @@
 
 This section contains common uses for Git These common uses are useful for all the repositories. 
 
-## How to Get a Remote Repository on GitHub to Your Local Machine
+## How-tos
+
+### How to Get a Remote Repository on GitHub to Your Local Machine
 Steps: 
 1. Go to GitHub. 
 2. Click into the target remote repository. 
@@ -18,7 +20,7 @@ Steps:
 [^2]: 
     It is unnecessary to use `git init` before `git clone`. The cloned respository already has `.git` folder inside it. 
 
-## How to Create a New Repository
+### How to Create a New Repository
 Steps: 
 1. Go to your profile page on GitHub. 
 2. Select the [Repositories] tab. 
@@ -57,6 +59,7 @@ Steps:
     The `-u` options is a shorthand for `--set-upstream` which is used to map a local branch to a remote barnch. 
 
 ## Extra: How to Set Up a Local Branch to Track a Remote Branch
+
 ### Case 01
 <ins>Background</ins>: You are currently on the `main` branch and have added a remote reference `origin`. 
 <br />
@@ -71,7 +74,9 @@ Steps:
 <br />
 <ins>Short Command</ins>: ```git branch -u origin/main```
 
-## Error: `failed to push some refs to 'https://github.com/....git'`
+## Errors
+
+### Error: `failed to push some refs to 'https://github.com/....git'`
 <ins>Cause</ins>: The remote repository contains work that you do not have locally. 
 <br />
 <ins>Fix</ins>: Integrate the remote changes using the following command:
@@ -79,7 +84,7 @@ Steps:
 git pull origin main
 ```
 
-## Error: `refusing to merge unrelated histories`
+### Error: `refusing to merge unrelated histories`
 <ins>Cause</ins>: Two respositories have mismatching histories and are considered unrelated. 
 <br />
 <ins>Fix</ins>: Add the following option to allow unrelated histories to be merged:
