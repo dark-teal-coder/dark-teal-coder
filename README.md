@@ -91,6 +91,14 @@ These are IDEs I know how to use, in the order I learned to use them.
 - Well, I found out about this Colab integration with GitHub from a freeCodeCamp course, which can bypass the problem of code cells in Jupyter notebooks not able to run on GitHub: 
 ![Google Colab badge](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 
+# CLI Matters 
+
+> CLI = Command Line Interface
+
+1. ![Windows CMD badge](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
+2. ![Powershell badge](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+3. ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
 # Framework Matters 
 
 ![GitBook](https://img.shields.io/badge/GitBook-7B36ED?style=for-the-badge&logo=gitbook&logoColor=white)
