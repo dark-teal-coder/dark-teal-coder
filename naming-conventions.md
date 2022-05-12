@@ -1,6 +1,6 @@
 
 # Naming Conventions
-Common case types are: camelCase, kebab-case, PascalCase, snake_case, Title Case, etc.
+Common case types are: `camelCase`, `kebab-case`, `PascalCase`, `snake_case`, `Title Case`, etc.
 - Microsoft Word: `Title Case.docx` or `Title_Case.docx`
 - Microsoft Excel: `Title Case.xlsx` or `Title_Case.xlsx`
 - Portable Document Format: `Title Case.pdf` or `Title_Case.pdf`
