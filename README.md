@@ -145,10 +145,10 @@ In random order:
 <p align="center">
     <img alt="GitBook" src="https://img.shields.io/badge/GitBook-346DDB?style=for-the-badge&logo=gitbook&logoColor=white"> 
     <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"> 
-    <img alt="Microsoft" src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white"> 
-    <img alt="PyPI" src="https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white"> 
-    <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"> 
-    <img alt="Conda" src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white"> 
+    <img alt="Microsoft" src="https://img.shields.io/badge/Microsoft-FFB900?style=for-the-badge&logo=microsoft&logoColor=white"> 
+    <img alt="PyPI" src="https://img.shields.io/badge/pypi-0073B7?style=for-the-badge&logo=pypi&logoColor=white"> 
+    <img alt="Pandas" src="https://img.shields.io/badge/Pandas-130754?style=for-the-badge&logo=pandas&logoColor=white"> 
+    <img alt="Conda" src="https://img.shields.io/badge/conda-43B02A.svg?&style=for-the-badge&logo=anaconda&logoColor=white"> 
 </p>
 
 # References
