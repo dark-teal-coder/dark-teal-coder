@@ -132,9 +132,10 @@ These are IDEs I know how to use, in the order I learned to use them.
 
 These are CLIs I know how to use, in the order I learned to use them. 
 
-1. Windows Command Prompt ![Windows CMD badge](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
-2. Windows Powershell ![Powershell badge](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-3. Git ![Git badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+1. Command Prompt ![CMD badge](https://img.shields.io/badge/Command%20Prompt-4D4D4D?style=flat-square&logo=windows%20terminal&logoColor=white)
+2. Windows PowerShell ![Powershell badge](https://img.shields.io/badge/Windows%20PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+3. PowerShell ![Powershell badge](https://img.shields.io/badge/Powershell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+4. Git ![Git badge](https://img.shields.io/badge/Git-E44C30?style=flat-square&logo=git&logoColor=white)
 
 # Framework Matters 
 
