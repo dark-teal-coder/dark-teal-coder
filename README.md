@@ -42,7 +42,9 @@ Use `YYYY/MM/DD` format for completion date. If completion date is 0000/00/00, i
 | [SQL](https://www.sololearn.com/learning/1060) | 2017/11/29 | [Certificate](https://www.sololearn.com/certificates/course/en/6407585/1060/landscape/png) |
 
 ## ![LinkedIn Learning](https://img.shields.io/badge/-LinkedIn%20Learning-0072b1.svg?logo=linkedin&labelColor=0072b1&logoColor=white&style=for-the-badge)
-
+| **Course** | **Completion Date** | **Certificate** |
+|:-----------|:-------------------:|:---------------:|
+| [Course Title]() | 0000/00/00 | [Certificate]() |
 
 # Coding Matters :woman_technologist:
 
