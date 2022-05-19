@@ -20,22 +20,22 @@ Check out my [Gists](https://gist.github.com/dark-teal-coder) for some code snip
 
 Use `YYYY/MM/DD` format for completion date. If completion date is 0000/00/00, it means incomplete. 
 
-## ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) 
+## ![Coursera](https://img.shields.io/badge/Coursera-0056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) 
 | **Course** | **Completion Date** | **Certificate** |
 |:-----------|:-------------------:|:---------------:|
 | [Git for Developers Using Github](https://www.coursera.org/projects/git-for-developers-using-github) | 2021/07/23 | [Certificate](https://coursera.org/share/0f6eebbea097ac24dd6075e433269056) |
 
-## ![EdX](https://img.shields.io/badge/edX-02262B?style=for-the-badge&logo=edx&logoColor=white) 
+## ![EdX](https://img.shields.io/badge/edX-02262B.svg?style=for-the-badge&logo=edx&logoColor=white) 
 | **Course** | **Completion Date** | **Certificate** |
 |:-----------|:-------------------:|:---------------:|
 | [Python Basics for Data Science](https://www.edx.org/course/python-basics-for-data-science) | 2019/12/28 | [Certificate](https://courses.edx.org/certificates/3a26889633134fd29504a49429c8849d) |
 
-## ![freeCodeCamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)
+## ![freeCodeCamp](https://img.shields.io/badge/freecodecamp-27273D.svg?style=for-the-badge&logo=freecodecamp&logoColor=white)
 | **Course** | **Completion Date** | **Certificate** |
 |:-----------|:-------------------:|:---------------:|
 | [Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/) | 0000/00/00 | [Certificate]() |
 
-## ![SoloLearn](https://img.shields.io/badge/-Sololearn-8252DE?style=for-the-badge&logo=Sololearn&logoColor=white)
+## ![SoloLearn](https://img.shields.io/badge/-Sololearn-8252DE.svg?style=for-the-badge&logo=Sololearn&logoColor=white)
 | **Course** | **Completion Date** | **Certificate** |
 |:-----------|:-------------------:|:---------------:|
 | [Java](https://www.sololearn.com/learning/1068) | 2017/11/07 | [Certificate](https://www.sololearn.com/Certificate/1068-6407585/jpg) |
