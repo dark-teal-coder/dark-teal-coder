@@ -41,6 +41,8 @@ Use `YYYY/MM/DD` format for completion date. If completion date is 0000/00/00, i
 | [Java](https://www.sololearn.com/learning/1068) | 2017/11/07 | [Certificate](https://www.sololearn.com/Certificate/1068-6407585/jpg) |
 | [SQL](https://www.sololearn.com/learning/1060) | 2017/11/29 | [Certificate](https://www.sololearn.com/certificates/course/en/6407585/1060/landscape/png) |
 
+## ![LinkedIn Learning](https://img.shields.io/badge/-LinkedIn%20Learning-0072b1.svg?logo=linkedin&labelColor=0072b1&logoColor=white&style=plastic)
+
 # Coding Matters :woman_technologist:
 
 ## ![Python badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) Python `.py` & `.ipynb` 
