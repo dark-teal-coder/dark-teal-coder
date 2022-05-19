@@ -144,7 +144,7 @@ In random order:
 <!--- Don't know how to use markdown formatting to center items so use HTML tags instead --->
 <p align="center">
     <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"> 
-    <img alt="Pandas" src="https://img.shields.io/badge/Pandas-130754?style=for-the-badge&logo=pandas&logoColor=white"> 
+    <img alt="Pandas" src="https://img.shields.io/badge/Pandas-130754?style=for-the-badge&logo=pandas&logoColor=E70488"> 
     <img alt="Numpy" src="https://img.shields.io/badge/Numpy-4DABCF?style=for-the-badge&logo=numpy&logoColor=4D77CF">
 </p>
 
