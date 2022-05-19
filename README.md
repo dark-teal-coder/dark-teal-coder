@@ -157,10 +157,11 @@ In random order:
 - [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 - [Welcome! Badges 4 README.md Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
 - [Badges for GitHub](https://dev.to/envoy_/150-badges-for-github-pnk)
+- [base64](https://b64.io/)
 
 <br />
 
-*Last modified date: May 12, 2022*
+*Last modified date: May 20, 2022*
 
 <!---
 dark-teal-coder/dark-teal-coder is a special repository because its `README.md` (current file) appears on your GitHub profile. Click on [Preview] tab to take a look at your changes. 
