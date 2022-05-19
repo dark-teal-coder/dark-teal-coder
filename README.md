@@ -120,7 +120,7 @@ These are IDEs I know how to use, in the order I learned to use them.
 ![Notepad++ badge](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
 - First learned to run Java in an instructor-led class outside university: 
 ![Eclipse badge](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-- First learned to use it in a Python class after learning Java in my undergraduate: ![PyCharm badge](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+- First learned to use it in a Python class after learning Java in my undergraduate: ![PyCharm badge](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=FCF84A)
 - First time coming across Jupyter Notebook was when my colleague told me about it: ![Jupyter Notebook badge](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 - Then, later towards the end of my 1st IT job, I switched from Notepad++ to VS Code: ![VS Code badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 - Well, I found out about this Colab integration with GitHub from a freeCodeCamp course, which can bypass the problem of code cells in Jupyter notebooks not able to run on GitHub: 
