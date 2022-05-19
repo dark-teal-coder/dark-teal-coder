@@ -145,7 +145,7 @@ In random order:
 <p align="center">
     <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"> 
     <img alt="Pandas" src="https://img.shields.io/badge/Pandas-130754?style=for-the-badge&logo=pandas&logoColor=white"> 
-    <img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
+    <img alt="Numpy" src="https://img.shields.io/badge/Numpy-4DABCF?style=for-the-badge&logo=numpy&logoColor=4D77CF">
 </p>
 
 # Tool Matters 
