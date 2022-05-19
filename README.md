@@ -35,7 +35,7 @@ Use `YYYY/MM/DD` format for completion date. If completion date is 0000/00/00, i
 |:-----------|:-------------------:|:---------------:|
 | [Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/) | 0000/00/00 | [Certificate]() |
 
-## ![SoloLearn](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)
+## ![SoloLearn](https://img.shields.io/badge/-Sololearn-8252DE?style=for-the-badge&logo=Sololearn&logoColor=white)
 | **Course** | **Completion Date** | **Certificate** |
 |:-----------|:-------------------:|:---------------:|
 | [Java](https://www.sololearn.com/learning/1068) | 2017/11/07 | [Certificate](https://www.sololearn.com/Certificate/1068-6407585/jpg) |
