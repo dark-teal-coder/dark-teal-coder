@@ -66,7 +66,7 @@ I've officially taken 2 Python courses before - one at undergraduate level and a
 - data visualization with `matplotlib` 
 - web scrapping with `requests` & `BeautifulSoup`
 
-## ![Java badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) Java `.java` & `.class` 
+## ![Java badge](https://img.shields.io/badge/Java-3A75B0?style=for-the-badge&logo=java&logoColor=white) Java `.java` & `.class` 
 ### Description
 I've taken the following course which used Java in my undergraduate studies. Lectures 11 to 13 were on Formal Language and the others focused mainly on Java syntax and concepts. This cousre also touched on basic sorting algorithms. 
 - [x] LT3233 Computational Linguistics [A]
