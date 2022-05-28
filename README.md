@@ -155,7 +155,7 @@ In random order:
 <!--- Don't know how to use markdown formatting to center items so use HTML tags instead --->
 <p align="center">
     <img alt="GitBook" src="https://img.shields.io/badge/GitBook-346DDB?style=for-the-badge&logo=gitbook&logoColor=white"> 
-    <img alt="Microsoft" src="https://img.shields.io/badge/Microsoft-FFB900?style=for-the-badge&logo=microsoft&logoColor=white"> 
+    <img alt="Microsoft" src="https://img.shields.io/badge/Microsoft-FFB900?style=for-the-badge&logo=microsoft&logoColor=00A4EF"> 
     <img alt="PyPI" src="https://img.shields.io/badge/pypi-0073B7?style=for-the-badge&logo=pypi&logoColor=white"> 
     <img alt="Conda" src="https://img.shields.io/badge/conda-43B02A.svg?&style=for-the-badge&logo=anaconda&logoColor=white"> 
 </p>
