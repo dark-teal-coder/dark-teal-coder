@@ -109,7 +109,7 @@ I withdrew the R programming course at graduate level as I just got a new full-t
     - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "harvard-graduate" repository >> Choose "introduction-to-programming-with-python" sub-directory >> Choose "project" sub-directory 
 - [Washington Post Web Scraper](https://github.com/dark-teal-coder/project-web-scraping-news)
     - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "project-web-scraping-news" repository 
-- [Demographic Data Analyzer](https://github.com/dark-teal-coder/freecodecamp-data-analysis-with-python/tree/main/03%20Data%20Analysis%20with%20Python%20Projects/project-demographic-data-analyzer)
+- [Demographic Data Analyzer](https://github.com/dark-teal-coder/freecodecamp-data-analysis-with-python/tree/main/03%20Data%20Analysis%20with%20Python%20Projects/project-demographic-data-analyzer) (incomplete)
     - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "freecodecamp-data-analysis-with-python" repository >> Choose "03 Data Analysis with Python Projects" sub-directory >> Choose "project-demographic-data-analyzer" sub-directory
 
 # IDE Matters 
