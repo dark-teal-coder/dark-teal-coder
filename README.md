@@ -111,6 +111,8 @@ I withdrew the R programming course at graduate level as I just got a new full-t
     - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "project-web-scraping-news" repository 
 - [Demographic Data Analyzer](https://github.com/dark-teal-coder/freecodecamp-data-analysis-with-python/tree/main/03%20Data%20Analysis%20with%20Python%20Projects/project-demographic-data-analyzer) (incomplete)
     - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "freecodecamp-data-analysis-with-python" repository >> Choose "03 Data Analysis with Python Projects" sub-directory >> Choose "project-demographic-data-analyzer" sub-directory
+- [Mean-Variance-Standard Deviation Calculator](https://github.com/dark-teal-coder/freecodecamp-data-analysis-with-python/tree/main/03%20Data%20Analysis%20with%20Python%20Projects/project-mean-variance-standard-deviation-calculator) (incomplete)
+    - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "freecodecamp-data-analysis-with-python" repository >> Choose "03 Data Analysis with Python Projects" sub-directory >> Choose "project-mean-variance-standard-deviation-calculator" sub-directory
 
 # IDE Matters 
 
