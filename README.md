@@ -116,7 +116,7 @@ I withdrew the R programming course at graduate level as I just got a new full-t
 - [Medical Data Visualizer](https://github.com/dark-teal-coder/freecodecamp-data-analysis-with-python/tree/main/03%20Data%20Analysis%20with%20Python%20Projects/project-medical-data-visualizer) (incomplete)
     - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "freecodecamp-data-analysis-with-python" repository >> Choose "03 Data Analysis with Python Projects" sub-directory >> Choose "project-medical-data-visualizer" sub-directory
 - [Page View Time Series Visualizer](https://github.com/dark-teal-coder/freecodecamp-data-analysis-with-python/tree/main/03%20Data%20Analysis%20with%20Python%20Projects/project-page-view-time-series-visualizer) (incomplete)
-    - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "freecodecamp-data-analysis-with-python" repository >> Choose "03 Data Analysis with Python Projects" sub-directory >> Choose "" sub-directory
+    - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "freecodecamp-data-analysis-with-python" repository >> Choose "03 Data Analysis with Python Projects" sub-directory >> Choose "project-page-view-time-series-visualizer" sub-directory
 
 # IDE Matters 
 
