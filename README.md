@@ -49,7 +49,7 @@ Use `YYYY/MM/DD` format for completion date. If completion date is 0000/00/00, i
 | [5 Personal Finance Tips]() | 0000/00/00 | [Certificate]() (missing URL) |
 | [Developing a YouTube Strategy](https://www.linkedin.com/learning/developing-a-youtube-strategy) | 0000/00/00 | [Certificate]() (missing URL) |
 | [Giving Your Elevator Pitch](https://www.linkedin.com/learning/giving-your-elevator-pitch) | 0000/00/00 | [Certificate]() (missing URL) |
-| [Guy Kawasaki on Entrepreneurship]() | 0000/00/00 | [Certificate]() (missing URL) |
+| [Guy Kawasaki on Entrepreneurship](https://www.linkedin.com/learning/guy-kawasaki-on-entrepreneurship) | 0000/00/00 | [Certificate]() (missing URL) |
 | [Learning FTP]() | 0000/00/00 | [Certificate]() (missing URL) |
 | [The Practices of High-Performing Employees]() | 0000/00/00 | [Certificate]() (missing URL) |
 | [Understanding Business]() | 0000/00/00 | [Certificate]() (missing URL) |
