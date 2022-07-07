@@ -58,6 +58,8 @@ Use `YYYY/MM/DD` format for completion date. If completion date is 0000/00/00, i
 | [Women Transforming Tech: Career Insights](https://www.linkedin.com/learning/women-transforming-tech-career-insights) | 2021/08/07 | [Certificate]() (missing URL) |
 | [Women Transforming Tech: Networking](https://www.linkedin.com/learning/women-transforming-tech-networking) | 2021/08/25 | [Certificate]() (missing URL) |
 
+For course summaries, please visit [Course Summary LinkedIn Learning](https://roxy-wong.gitbook.io/linkedin-learning/). 
+
 # Coding Matters :woman_technologist:
 
 ## ![Python badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) Python `.py` & `.ipynb` 
