@@ -46,17 +46,17 @@ Use `YYYY/MM/DD` format for completion date. If completion date is 0000/00/00, i
 | **Course** | **Completion Date** | **Certificate** |
 |:-----------|:-------------------:|:---------------:|
 | [43 Ideas for Starting a Side Business](https://www.linkedin.com/learning/43-ideas-for-starting-a-side-business) | 2021/07/21 | [Certificate]() (missing URL) |
-| [5 Personal Finance Tips]() (URL removed) | 0000/00/00 | [Certificate]() (missing URL) |
-| [Developing a YouTube Strategy](https://www.linkedin.com/learning/developing-a-youtube-strategy) | 0000/00/00 | [Certificate]() (missing URL) |
-| [Giving Your Elevator Pitch](https://www.linkedin.com/learning/giving-your-elevator-pitch) | 0000/00/00 | [Certificate]() (missing URL) |
-| [Guy Kawasaki on Entrepreneurship](https://www.linkedin.com/learning/guy-kawasaki-on-entrepreneurship) | 0000/00/00 | [Certificate]() (missing URL) |
-| [Learning FTP](https://www.linkedin.com/learning/learning-sftp) | 0000/00/00 | [Certificate]() (missing URL) |
-| [The Practices of High-Performing Employees](https://www.linkedin.com/learning/the-practices-of-high-performing-employees) | 0000/00/00 | [Certificate]() (missing URL) |
-| [Understanding Business](https://www.linkedin.com/learning/understanding-business) | 0000/00/00 | [Certificate]() (missing URL) |
-| [Women Transforming Tech: Breaking Bias](https://www.linkedin.com/learning/women-transforming-tech-breaking-bias-2) | 0000/00/00 | [Certificate]() (missing URL) |
-| [Women Transforming Tech: Building Your Brand](https://www.linkedin.com/learning/women-transforming-tech-building-your-brand) | 0000/00/00 | [Certificate]() (missing URL) |
-| [Women Transforming Tech: Career Insights](https://www.linkedin.com/learning/women-transforming-tech-career-insights) | 0000/00/00 | [Certificate]() (missing URL) |
-| [Women Transforming Tech: Networking](https://www.linkedin.com/learning/women-transforming-tech-networking) | 0000/00/00 | [Certificate]() (missing URL) |
+| [5 Personal Finance Tips]() (URL removed) | 2021/07/27 | [Certificate]() (missing URL) |
+| [Developing a YouTube Strategy](https://www.linkedin.com/learning/developing-a-youtube-strategy) | 2021/08/06 | [Certificate]() (missing URL) |
+| [Giving Your Elevator Pitch](https://www.linkedin.com/learning/giving-your-elevator-pitch) | 2021/08/28 | [Certificate]() (missing URL) |
+| [Guy Kawasaki on Entrepreneurship](https://www.linkedin.com/learning/guy-kawasaki-on-entrepreneurship) | 2021/07/27 | [Certificate]() (missing URL) |
+| [Learning FTP](https://www.linkedin.com/learning/learning-sftp) | 2021/07/29 | [Certificate]() (missing URL) |
+| [The Practices of High-Performing Employees](https://www.linkedin.com/learning/the-practices-of-high-performing-employees) | 2021/07/28 | [Certificate]() (missing URL) |
+| [Understanding Business](https://www.linkedin.com/learning/understanding-business) | 2021/09/03 | [Certificate]() (missing URL) |
+| [Women Transforming Tech: Breaking Bias](https://www.linkedin.com/learning/women-transforming-tech-breaking-bias-2) | 2021/08/04 | [Certificate]() (missing URL) |
+| [Women Transforming Tech: Building Your Brand](https://www.linkedin.com/learning/women-transforming-tech-building-your-brand) | 2021/08/02 | [Certificate]() (missing URL) |
+| [Women Transforming Tech: Career Insights](https://www.linkedin.com/learning/women-transforming-tech-career-insights) | 2021/08/07 | [Certificate]() (missing URL) |
+| [Women Transforming Tech: Networking](https://www.linkedin.com/learning/women-transforming-tech-networking) | 2021/08/25 | [Certificate]() (missing URL) |
 
 # Coding Matters :woman_technologist:
 
