@@ -51,7 +51,7 @@ Use `YYYY/MM/DD` format for completion date. If completion date is 0000/00/00, i
 | [Giving Your Elevator Pitch](https://www.linkedin.com/learning/giving-your-elevator-pitch) | 0000/00/00 | [Certificate]() (missing URL) |
 | [Guy Kawasaki on Entrepreneurship](https://www.linkedin.com/learning/guy-kawasaki-on-entrepreneurship) | 0000/00/00 | [Certificate]() (missing URL) |
 | [Learning FTP](https://www.linkedin.com/learning/learning-sftp) | 0000/00/00 | [Certificate]() (missing URL) |
-| [The Practices of High-Performing Employees]() | 0000/00/00 | [Certificate]() (missing URL) |
+| [The Practices of High-Performing Employees](https://www.linkedin.com/learning/the-practices-of-high-performing-employees) | 0000/00/00 | [Certificate]() (missing URL) |
 | [Understanding Business]() | 0000/00/00 | [Certificate]() (missing URL) |
 | [Women Transforming Tech: Breaking Bias]() | 0000/00/00 | [Certificate]() (missing URL) |
 | [Women Transforming Tech: Building Your Brand]() | 0000/00/00 | [Certificate]() (missing URL) |
