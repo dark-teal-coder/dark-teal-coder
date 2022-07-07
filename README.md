@@ -56,7 +56,7 @@ Use `YYYY/MM/DD` format for completion date. If completion date is 0000/00/00, i
 | [Women Transforming Tech: Breaking Bias](https://www.linkedin.com/learning/women-transforming-tech-breaking-bias-2) | 0000/00/00 | [Certificate]() (missing URL) |
 | [Women Transforming Tech: Building Your Brand](https://www.linkedin.com/learning/women-transforming-tech-building-your-brand) | 0000/00/00 | [Certificate]() (missing URL) |
 | [Women Transforming Tech: Career Insights](https://www.linkedin.com/learning/women-transforming-tech-career-insights) | 0000/00/00 | [Certificate]() (missing URL) |
-| [Women Transforming Tech: Networking]() | 0000/00/00 | [Certificate]() (missing URL) |
+| [Women Transforming Tech: Networking](https://www.linkedin.com/learning/women-transforming-tech-networking) | 0000/00/00 | [Certificate]() (missing URL) |
 
 # Coding Matters :woman_technologist:
 
