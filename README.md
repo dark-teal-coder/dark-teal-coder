@@ -47,7 +47,7 @@ Use `YYYY/MM/DD` format for completion date. If completion date is 0000/00/00, i
 |:-----------|:-------------------:|:---------------:|
 | [43 Ideas for Starting a Side Business](https://www.linkedin.com/learning/43-ideas-for-starting-a-side-business) | 2021/07/21 | [Certificate]() |
 | [5 Personal Finance Tips]() | 0000/00/00 | [Certificate]() (missing URL) |
-| [Developing a YouTube Strategy]() | 0000/00/00 | [Certificate]() (missing URL) |
+| [Developing a YouTube Strategy](https://www.linkedin.com/learning/developing-a-youtube-strategy) | 0000/00/00 | [Certificate]() (missing URL) |
 | [Giving Your Elevator Pitch]() | 0000/00/00 | [Certificate]() (missing URL) |
 | [Guy Kawasaki on Entrepreneurship]() | 0000/00/00 | [Certificate]() (missing URL) |
 | [Learning FTP]() | 0000/00/00 | [Certificate]() (missing URL) |
