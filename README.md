@@ -45,6 +45,10 @@ Use `YYYY/MM/DD` format for completion date. If completion date is 0000/00/00, i
 | **Course** | **Completion Date** | **Certificate** |
 |:-----------|:-------------------:|:---------------:|
 | [Course Title]() | 0000/00/00 | [Certificate]() |
+| [Course Title]() | 0000/00/00 | [Certificate]() |
+| [Course Title]() | 0000/00/00 | [Certificate]() |
+| [Course Title]() | 0000/00/00 | [Certificate]() |
+| [Course Title]() | 0000/00/00 | [Certificate]() |
 
 # Coding Matters :woman_technologist:
 
