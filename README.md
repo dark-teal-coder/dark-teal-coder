@@ -46,17 +46,17 @@ Use `YYYY/MM/DD` format for completion date. If completion date is 0000/00/00, i
 | **Course** | **Completion Date** | **Certificate** |
 |:-----------|:-------------------:|:---------------:|
 | [43 Ideas for Starting a Side Business](https://www.linkedin.com/learning/43-ideas-for-starting-a-side-business) | 2021/07/21 | [Certificate]() |
-| [Course Title]() | 0000/00/00 | [Certificate]() (missing URL) |
-| [Course Title]() | 0000/00/00 | [Certificate]() (missing URL) |
-| [Course Title]() | 0000/00/00 | [Certificate]() (missing URL) |
-| [Course Title]() | 0000/00/00 | [Certificate]() (missing URL) |
-| [Course Title]() | 0000/00/00 | [Certificate]() (missing URL) |
-| [Course Title]() | 0000/00/00 | [Certificate]() (missing URL) |
-| [Course Title]() | 0000/00/00 | [Certificate]() (missing URL) |
-| [Course Title]() | 0000/00/00 | [Certificate]() (missing URL) |
-| [Course Title]() | 0000/00/00 | [Certificate]() (missing URL) |
-| [Course Title]() | 0000/00/00 | [Certificate]() (missing URL) |
-| [Course Title]() | 0000/00/00 | [Certificate]() (missing URL) |
+| [5 Personal Finance Tips]() | 0000/00/00 | [Certificate]() (missing URL) |
+| [Developing a YouTube Strategy]() | 0000/00/00 | [Certificate]() (missing URL) |
+| [Giving Your Elevator Pitch]() | 0000/00/00 | [Certificate]() (missing URL) |
+| [Guy Kawasaki on Entrepreneurship]() | 0000/00/00 | [Certificate]() (missing URL) |
+| [Learning FTP]() | 0000/00/00 | [Certificate]() (missing URL) |
+| [The Practices of High-Performing Employees]() | 0000/00/00 | [Certificate]() (missing URL) |
+| [Understanding Business]() | 0000/00/00 | [Certificate]() (missing URL) |
+| [Women Transforming Tech: Breaking Bias]() | 0000/00/00 | [Certificate]() (missing URL) |
+| [Women Transforming Tech: Building Your Brand]() | 0000/00/00 | [Certificate]() (missing URL) |
+| [Women Transforming Tech: Career Insights]() | 0000/00/00 | [Certificate]() (missing URL) |
+| [Women Transforming Tech: Networking]() | 0000/00/00 | [Certificate]() (missing URL) |
 
 # Coding Matters :woman_technologist:
 
