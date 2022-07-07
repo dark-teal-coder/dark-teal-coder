@@ -44,7 +44,7 @@ Use `YYYY/MM/DD` format for completion date. If completion date is 0000/00/00, i
 ## ![LinkedIn Learning](https://img.shields.io/badge/-LinkedIn%20Learning-0072b1.svg?logo=linkedin&labelColor=0072b1&logoColor=white&style=for-the-badge)
 | **Course** | **Completion Date** | **Certificate** |
 |:-----------|:-------------------:|:---------------:|
-| [43 Ideas for Starting a Side Business](URL) | 2021/07/21 | [Certificate]() |
+| [43 Ideas for Starting a Side Business](https://www.linkedin.com/learning/43-ideas-for-starting-a-side-business) | 2021/07/21 | [Certificate]() |
 | [Course Title]() | 0000/00/00 | [Certificate]() |
 | [Course Title]() | 0000/00/00 | [Certificate]() |
 | [Course Title]() | 0000/00/00 | [Certificate]() |
