@@ -110,15 +110,15 @@ I withdrew the R programming course at graduate level as I just got a new full-t
 - [Washington Post Web Scraper](https://github.com/dark-teal-coder/project-web-scraping-news)
     - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "project-web-scraping-news" repository 
 - [Demographic Data Analyzer](https://github.com/dark-teal-coder/freecodecamp-data-analysis-with-python/tree/main/03%20Data%20Analysis%20with%20Python%20Projects/project-demographic-data-analyzer) (incomplete)
-    - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "freecodecamp-data-analysis-with-python" repository >> Choose "03 Data Analysis with Python Projects" sub-directory >> Choose "project-demographic-data-analyzer" sub-directory
+    - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "freecodecamp-data-analysis-with-python" repository >> Choose "03-data-analysis-with-python-projects" sub-directory >> Choose "project-demographic-data-analyzer" sub-directory
 - [Mean-Variance-Standard Deviation Calculator](https://github.com/dark-teal-coder/freecodecamp-data-analysis-with-python/tree/main/03%20Data%20Analysis%20with%20Python%20Projects/project-mean-variance-standard-deviation-calculator) (incomplete)
-    - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "freecodecamp-data-analysis-with-python" repository >> Choose "03 Data Analysis with Python Projects" sub-directory >> Choose "project-mean-variance-standard-deviation-calculator" sub-directory
+    - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "freecodecamp-data-analysis-with-python" repository >> Choose "03-data-analysis-with-python-projects" sub-directory >> Choose "project-mean-variance-standard-deviation-calculator" sub-directory
 - [Medical Data Visualizer](https://github.com/dark-teal-coder/freecodecamp-data-analysis-with-python/tree/main/03%20Data%20Analysis%20with%20Python%20Projects/project-medical-data-visualizer) (incomplete)
-    - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "freecodecamp-data-analysis-with-python" repository >> Choose "03 Data Analysis with Python Projects" sub-directory >> Choose "project-medical-data-visualizer" sub-directory
+    - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "freecodecamp-data-analysis-with-python" repository >> Choose "03-data-analysis-with-python-projects" sub-directory >> Choose "project-medical-data-visualizer" sub-directory
 - [Page View Time Series Visualizer](https://github.com/dark-teal-coder/freecodecamp-data-analysis-with-python/tree/main/03%20Data%20Analysis%20with%20Python%20Projects/project-page-view-time-series-visualizer) (incomplete)
-    - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "freecodecamp-data-analysis-with-python" repository >> Choose "03 Data Analysis with Python Projects" sub-directory >> Choose "project-page-view-time-series-visualizer" sub-directory
+    - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "freecodecamp-data-analysis-with-python" repository >> Choose "03-data-analysis-with-python-projects" sub-directory >> Choose "project-page-view-time-series-visualizer" sub-directory
 - [Sea Level Predictor](https://github.com/dark-teal-coder/freecodecamp-data-analysis-with-python/tree/main/03%20Data%20Analysis%20with%20Python%20Projects/project-sea-level-predictor) (incomplete)
-    - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "freecodecamp-data-analysis-with-python" repository >> Choose "03 Data Analysis with Python Projects" sub-directory >> Choose "xxx" sub-directory
+    - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "freecodecamp-data-analysis-with-python" repository >> Choose "03-data-analysis-with-python-projects" sub-directory >> Choose "xxx" sub-directory
 - xxx
     - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "freecodecamp-scientific-computing-with-python" repository >> Choose "02-scientific-computing-with-python-projects" sub-directory >> Choose "xxx" sub-directory
 - xxx
