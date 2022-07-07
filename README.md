@@ -34,6 +34,7 @@ Use `YYYY/MM/DD` format for completion date. If completion date is 0000/00/00, i
 | **Course** | **Completion Date** | **Certificate** |
 |:-----------|:-------------------:|:---------------:|
 | [Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/) | 0000/00/00 | [Certificate]() |
+| [Scientific Computing with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/) | 0000/00/00 | [Certificate]() |
 
 ## ![SoloLearn](https://img.shields.io/badge/-Sololearn-8252DE.svg?style=for-the-badge&logo=Sololearn&logoColor=white)
 | **Course** | **Completion Date** | **Certificate** |
