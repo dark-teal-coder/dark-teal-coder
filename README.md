@@ -52,7 +52,7 @@ Use `YYYY/MM/DD` format for completion date. If completion date is 0000/00/00, i
 | [Guy Kawasaki on Entrepreneurship](https://www.linkedin.com/learning/guy-kawasaki-on-entrepreneurship) | 0000/00/00 | [Certificate]() (missing URL) |
 | [Learning FTP](https://www.linkedin.com/learning/learning-sftp) | 0000/00/00 | [Certificate]() (missing URL) |
 | [The Practices of High-Performing Employees](https://www.linkedin.com/learning/the-practices-of-high-performing-employees) | 0000/00/00 | [Certificate]() (missing URL) |
-| [Understanding Business]() | 0000/00/00 | [Certificate]() (missing URL) |
+| [Understanding Business](https://www.linkedin.com/learning/understanding-business) | 0000/00/00 | [Certificate]() (missing URL) |
 | [Women Transforming Tech: Breaking Bias]() | 0000/00/00 | [Certificate]() (missing URL) |
 | [Women Transforming Tech: Building Your Brand]() | 0000/00/00 | [Certificate]() (missing URL) |
 | [Women Transforming Tech: Career Insights]() | 0000/00/00 | [Certificate]() (missing URL) |
