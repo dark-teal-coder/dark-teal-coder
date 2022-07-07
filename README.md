@@ -119,15 +119,15 @@ I withdrew the R programming course at graduate level as I just got a new full-t
     - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "freecodecamp-data-analysis-with-python" repository >> Choose "03-data-analysis-with-python-projects" sub-directory >> Choose "project-page-view-time-series-visualizer" sub-directory
 - [Sea Level Predictor](https://github.com/dark-teal-coder/freecodecamp-data-analysis-with-python/tree/main/03%20Data%20Analysis%20with%20Python%20Projects/project-sea-level-predictor) (incomplete)
     - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "freecodecamp-data-analysis-with-python" repository >> Choose "03-data-analysis-with-python-projects" sub-directory >> Choose "xxx" sub-directory
-- xxx
+- [Arithmetic Formatter](https://github.com/dark-teal-coder/freecodecamp-scientific-computing-with-python/tree/main/02-scientific-computing-with-python-projects/project-arithmetic-formatter) (incomplete) 
     - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "freecodecamp-scientific-computing-with-python" repository >> Choose "02-scientific-computing-with-python-projects" sub-directory >> Choose "xxx" sub-directory
-- xxx
+- [Budget App](https://github.com/dark-teal-coder/freecodecamp-scientific-computing-with-python/tree/main/02-scientific-computing-with-python-projects/project-budget-app) (incomplete)
     - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "freecodecamp-scientific-computing-with-python" repository >> Choose "02-scientific-computing-with-python-projects" sub-directory >> Choose "xxx" sub-directory
-- xxx
+- [Polygon Area Calculator](https://github.com/dark-teal-coder/freecodecamp-scientific-computing-with-python/tree/main/02-scientific-computing-with-python-projects/project-polygon-area-calculator) (incomplete)
     - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "freecodecamp-scientific-computing-with-python" repository >> Choose "02-scientific-computing-with-python-projects" sub-directory >> Choose "xxx" sub-directory
-- xxx
+- [Probability Calculator](https://github.com/dark-teal-coder/freecodecamp-scientific-computing-with-python/tree/main/02-scientific-computing-with-python-projects/project-probability-calculator) (incomplete)
     - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "freecodecamp-scientific-computing-with-python" repository >> Choose "02-scientific-computing-with-python-projects" sub-directory >> Choose "xxx" sub-directory
-- xxx
+- [Time Calculator](https://github.com/dark-teal-coder/freecodecamp-scientific-computing-with-python/tree/main/02-scientific-computing-with-python-projects/project-time-calculator) (incomplete)
     - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "freecodecamp-scientific-computing-with-python" repository >> Choose "02-scientific-computing-with-python-projects" sub-directory >> Choose "xxx" sub-directory
 
 # IDE Matters 
