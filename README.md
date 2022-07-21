@@ -142,7 +142,7 @@ I withdrew the R programming course at graduate level as I just got a new full-t
 - [Probability Calculator](https://github.com/dark-teal-coder/freecodecamp-scientific-computing-with-python/tree/main/02-scientific-computing-with-python-projects/project-probability-calculator) (incomplete)
     - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "freecodecamp-scientific-computing-with-python" repository >> Choose "02-scientific-computing-with-python-projects" sub-directory >> Choose "project-probability-calculator" sub-directory
 - [Time Calculator](https://github.com/dark-teal-coder/freecodecamp-scientific-computing-with-python/tree/main/02-scientific-computing-with-python-projects/project-time-calculator) (incomplete)
-    - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "freecodecamp-scientific-computing-with-python" repository >> Choose "02-scientific-computing-with-python-projects" sub-directory >> Choose "xxx" sub-directory
+    - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "freecodecamp-scientific-computing-with-python" repository >> Choose "02-scientific-computing-with-python-projects" sub-directory >> Choose "project-time-calculator" sub-directory
 
 # IDE Matters 
 
