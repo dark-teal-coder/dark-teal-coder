@@ -60,6 +60,11 @@ Use `YYYY/MM/DD` format for completion date. If completion date is 0000/00/00, i
 
 For course summaries, please visit [Course Summary LinkedIn Learning](https://roxy-wong.gitbook.io/linkedin-learning/). 
 
+## ![Real Python](https://img.shields.io/badge/-Real%20Python-0072b1.svg?logo=linkedin&labelColor=0072b1&logoColor=white&style=for-the-badge)
+| **Course** | **Completion Date** | **Certificate** |
+|:-----------|:-------------------:|:---------------:|
+| [Welcome to Real Python!](https://realpython.com/courses/real-python-welcome) | 2021/07/24 | [Certificate](https://realpython.com/certificates/9789a229-0745-4819-99dd-0729dc332302) |
+
 # Coding Matters :woman_technologist:
 
 ## ![Python badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) Python `.py` & `.ipynb` 
