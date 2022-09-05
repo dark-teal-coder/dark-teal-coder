@@ -207,6 +207,7 @@ In random order:
 - [Welcome! Badges 4 README.md Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
 - [Badges for GitHub](https://dev.to/envoy_/150-badges-for-github-pnk)
 - [shields.io](https://shields.io)
+- [Simple Icons](https://simpleicons.org/)
 - [b64.io](https://b64.io)
 
 <br />
