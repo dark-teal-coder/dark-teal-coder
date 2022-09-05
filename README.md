@@ -42,7 +42,7 @@ Use `YYYY/MM/DD` format for completion date. If completion date is 0000/00/00, i
 | [Java](https://www.sololearn.com/learning/1068) | 2017/11/07 | [Certificate](https://raw.githubusercontent.com/dark-teal-coder/dark-teal-coder/70edae252639b3d74fa7b6bbc7aa4987c82acd18/certificates/sololearn-cert-java.png) |
 | [SQL](https://www.sololearn.com/learning/1060) | 2017/11/29 | [Certificate](https://raw.githubusercontent.com/dark-teal-coder/dark-teal-coder/70edae252639b3d74fa7b6bbc7aa4987c82acd18/certificates/sololearn-cert-sql.png) |
 
-## ![LinkedIn Learning](https://img.shields.io/badge/-LinkedIn%20Learning-0072b1.svg?logo=linkedin&labelColor=0072b1&logoColor=white&style=for-the-badge)
+## ![LinkedIn Learning](https://img.shields.io/badge/-LinkedIn%20Learning-18354C.svg?logo=linkedin&labelColor=0072b1&logoColor=white&style=for-the-badge)
 | **Course** | **Completion Date** | **Certificate** |
 |:-----------|:-------------------:|:---------------:|
 | [43 Ideas for Starting a Side Business](https://www.linkedin.com/learning/43-ideas-for-starting-a-side-business) | 2021/07/21 | [Certificate]() (missing URL) |
