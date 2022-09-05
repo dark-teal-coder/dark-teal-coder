@@ -59,7 +59,7 @@ Use `YYYY/MM/DD` format for completion date. If completion date is 0000/00/00, i
 | [Women Transforming Tech: Networking](https://www.linkedin.com/learning/women-transforming-tech-networking) | 2021/08/25 | [Certificate]() (missing URL) |
 
 For course summaries, please visit [Course Summary LinkedIn Learning](https://roxy-wong.gitbook.io/linkedin-learning/). 
-
+https://img.shields.io/badge/-Real%20Python-18354C.svg?style=for-the-badge&logo=python&logoColor=white
 ## ![Real Python](https://img.shields.io/badge/-Real%20Python-18354C.svg?logo=python&labelColor=18354C&logoColor=white&style=for-the-badge)
 | **Course** | **Completion Date** | **Certificate** |
 |:-----------|:-------------------:|:---------------:|
