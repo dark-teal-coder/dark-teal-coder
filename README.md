@@ -33,8 +33,8 @@ Use `YYYY/MM/DD` format for completion date. If completion date is 0000/00/00, i
 ## ![freeCodeCamp](https://img.shields.io/badge/freecodecamp-27273D.svg?style=for-the-badge&logo=freecodecamp&logoColor=white)
 | **Course** | **Completion Date** | **Certificate** |
 |:-----------|:-------------------:|:---------------:|
-| [Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/) | 0000/00/00 | [Certificate]() (missing URL) |
-| [Scientific Computing with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/) | 0000/00/00 | [Certificate]() (missing URL) |
+| [Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python) | 0000/00/00 | [Certificate]() (missing URL) |
+| [Scientific Computing with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python) | 0000/00/00 | [Certificate]() (missing URL) |
 
 ## ![SoloLearn](https://img.shields.io/badge/-Sololearn-8252DE.svg?style=for-the-badge&logo=Sololearn&logoColor=white)
 | **Course** | **Completion Date** | **Certificate** |
@@ -64,6 +64,7 @@ For course summaries, please visit [Course Summary LinkedIn Learning](https://ro
 | **Course** | **Completion Date** | **Certificate** |
 |:-----------|:-------------------:|:---------------:|
 | [Welcome to Real Python!](https://realpython.com/courses/real-python-welcome) | 2021/07/24 | [Certificate](https://realpython.com/certificates/9789a229-0745-4819-99dd-0729dc332302) |
+| [Basic Data Types in Python](https://realpython.com/courses/python-data-types) | 2021/08/27 | [Certificate](https://realpython.com/certificates/cd8b9b42-ad82-4976-b1ab-43aef1eeeffe) |
 
 # Coding Matters :woman_technologist:
 
