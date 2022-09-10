@@ -66,10 +66,10 @@ For course summaries, please visit [Course Summary LinkedIn Learning](https://ro
 | [Welcome to Real Python!](https://realpython.com/courses/real-python-welcome) | 2021/07/24 | [Certificate](https://realpython.com/certificates/9789a229-0745-4819-99dd-0729dc332302) |
 | [Basic Data Types in Python](https://realpython.com/courses/python-data-types) | 2021/08/27 | [Certificate](https://realpython.com/certificates/cd8b9b42-ad82-4976-b1ab-43aef1eeeffe) |
 | [How to Write Pythonic Loops](https://realpython.com/courses/how-to-write-pythonic-loops) | 2021/12/01 | [Certificate](https://realpython.com/certificates/718b1fb5-8429-4003-b51f-3e348aed911c) |
-| [Using List Comprehensions Effectively](https://realpython.com/courses/using-list-comprehensions-effectively) | 2021/12/01 | [Certificate] (https://realpython.com/certificates/6f8b8b5e-be3a-4c1f-9da2-c0253cbc876b) |
-| [Convert a Python String to int](https://realpython.com/courses/convert-python-string-int) | 2022/06/08 | [Certificate] (https://realpython.com/certificates/4227e0ae-42db-4564-bb69-0556cdbe736c) |
-| [Conditional Statements in Python (if/elif/else)](https://realpython.com/courses/python-conditional-statements) | 2022/06/08 | [Certificate] (https://realpython.com/certificates/6a5a2d03-6cd3-47dc-b1b6-2c58a74c4387) |
-| [Web Scraping With Beautiful Soup and Python](https://realpython.com/courses/web-scraping-beautiful-soup/) | 2022/06/08 | [Certificate] (https://realpython.com/certificates/6a5a2d03-6cd3-47dc-b1b6-2c58a74c4387) |
+| [Using List Comprehensions Effectively](https://realpython.com/courses/using-list-comprehensions-effectively) | 2021/12/01 | [Certificate](https://realpython.com/certificates/6f8b8b5e-be3a-4c1f-9da2-c0253cbc876b) |
+| [Convert a Python String to int](https://realpython.com/courses/convert-python-string-int) | 2022/06/08 | [Certificate](https://realpython.com/certificates/4227e0ae-42db-4564-bb69-0556cdbe736c) |
+| [Conditional Statements in Python (if/elif/else)](https://realpython.com/courses/python-conditional-statements) | 2022/06/08 | [Certificate](https://realpython.com/certificates/6a5a2d03-6cd3-47dc-b1b6-2c58a74c4387) |
+| [Web Scraping With Beautiful Soup and Python](https://realpython.com/courses/web-scraping-beautiful-soup/) | 2022/06/08 | [Certificate](https://realpython.com/certificates/6a5a2d03-6cd3-47dc-b1b6-2c58a74c4387) |
 
 # Coding Matters :woman_technologist:
 
