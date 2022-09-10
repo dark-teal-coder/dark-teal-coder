@@ -70,6 +70,17 @@ For course summaries, please visit [Course Summary LinkedIn Learning](https://ro
 | [Convert a Python String to int](https://realpython.com/courses/convert-python-string-int) | 2022/06/08 | [Certificate](https://realpython.com/certificates/4227e0ae-42db-4564-bb69-0556cdbe736c) |
 | [Conditional Statements in Python (if/elif/else)](https://realpython.com/courses/python-conditional-statements) | 2022/06/08 | [Certificate](https://realpython.com/certificates/6a5a2d03-6cd3-47dc-b1b6-2c58a74c4387) |
 | [Web Scraping With Beautiful Soup and Python](https://realpython.com/courses/web-scraping-beautiful-soup/) | 2022/06/08 | [Certificate](https://realpython.com/certificates/6a5a2d03-6cd3-47dc-b1b6-2c58a74c4387) |
+| [Start Managing Multiple Python Versions With pyenv](https://realpython.com/courses/start-with-pyenv) | 2022/06/18 | [Certificate](https://realpython.com/certificates/a7d4fd03-c584-45d5-8215-e40edcfa8707) | 
+| [Migrating Applications From Python 2 to Python 3](https://realpython.com/courses/migrating-applications-python-2-python-3) | 2022/06/20 | [Certificate](https://realpython.com/courses/migrating-applications-python-2-python-3) |
+| [Learn Text Classification With Python and Keras](https://realpython.com/courses/text-classification-with-keras/) | 2022/06/20 | [Certificate](https://realpython.com/certificates/ca9af5c6-9aec-449f-bda6-7814998df77b) |
+| [Speech Recognition With Python](https://realpython.com/courses/speech-recognition-python) | 2022/06/20 | [Certificate](https://realpython.com/certificates/edd77a99-08c0-4c08-9454-32e38704ff5b) |
+| [Django Admin Customization](https://realpython.com/courses/django-admin-customization) | 2022/06/20 | [Certificate](https://realpython.com/certificates/d9a42d4f-5920-4168-a8b5-06be5e31eb62) |
+| [Understanding Python List Comprehensions](https://realpython.com/courses/understand-list-comprehensions) | 2022/06/21 | [Certificate](https://realpython.com/certificates/99fd24e7-2d62-40e0-8c11-ea23e3a61d31) |
+| [Speed Up Python With Concurrency](https://realpython.com/courses/speed-python-concurrency/) | 2022/06/21 | [Certificate](https://realpython.com/certificates/8c823ef0-7dc5-42cb-92c7-7de4e545df79) |
+| [Functional Programming in Python](https://realpython.com/courses/functional-programming-python) | 2022/07/02 | [Certificate](https://realpython.com/certificates/4be26339-09c0-49ab-9b69-12f7e8bba3fb) |
+| [Building HTTP APIs With Django REST Framework](https://realpython.com/courses/django-rest-framework) | 2022/07/05 | [Certificate](https://realpython.com/certificates/4d4c3076-6bc9-42bd-95ed-c2c5e0abaa0e) |
+| [Using Pandas to Make a Gradebook in Python](https://realpython.com/courses/gradebook-using-pandas-python) | 2022/08/22 | [Certificate](https://realpython.com/certificates/20634d53-4cc9-4d4d-9eb2-61ac8e241cd9) |
+| [Unicode in Python: Working With Character Encodings](https://realpython.com/courses/python-unicode) | 2022/08/27 | [Certificate](https://realpython.com/certificates/aa17391d-24ff-45e9-a2c1-496c45f62a10) |
 
 # Coding Matters :woman_technologist:
 
