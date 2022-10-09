@@ -5,6 +5,7 @@ This section contains common uses for Git These common uses are useful for all t
 ## How-tos
 
 ### How to Get a Remote Repository on GitHub to Your Local Machine
+
 Steps: 
 1. Go to GitHub. 
 2. Click into the target remote repository. 
@@ -21,6 +22,7 @@ Steps:
     It is unnecessary to use `git init` before `git clone`. The cloned respository already has `.git` folder inside it. 
 
 ### How to Create a New Repository
+
 Steps: 
 1. Go to your profile page on GitHub. 
 2. Select the [Repositories] tab. 
@@ -58,9 +60,21 @@ Steps:
 [^9]: 
     The `-u` options is a shorthand for `--set-upstream` which is used to map a local branch to a remote barnch. 
 
+### How to Rename a Remote Repository and Update the Local Repository
+
+Steps: 
+1. On GitHub.com, navigate to the main page of the repository.
+2. Under your repository name, click [Settings].
+3. Under the [Repository Name] heading, type the new name of your repository.
+4. Click [Rename].
+5. Copy the repository URL.
+6. Run `git remote set-url origin {repository URL}` in a command-line interface. 
+7. Run `git remote show origin` to check the new repository URL.
+
 ## Extra: How to Set Up a Local Branch to Track a Remote Branch
 
 ### Case 01
+
 <ins>Background</ins>: You are currently on the `main` branch and have added a remote reference `origin`. 
 <br />
 <ins>Full Command</ins>: ```git branch --set-upstream-to=origin/main main```
@@ -68,6 +82,7 @@ Steps:
 <ins>Short Command</ins>: ```git branch -u origin/main main```
 
 ### Case 02
+
 <ins>Background</ins>: You are not currently on the `main` branch and have added a remote reference `origin`. 
 <br />
 <ins>Full Command</ins>: ```git branch --set-upstream-to=origin/main```
@@ -77,6 +92,7 @@ Steps:
 ## Errors
 
 ### Error: `failed to push some refs to 'https://github.com/....git'`
+
 <ins>Cause</ins>: The remote repository contains work that you do not have locally. 
 <br />
 <ins>Fix</ins>: Integrate the remote changes using the following command:
@@ -85,6 +101,7 @@ git pull origin main
 ```
 
 ### Error: `refusing to merge unrelated histories`
+
 <ins>Cause</ins>: Two respositories have mismatching histories and are considered unrelated. 
 <br />
 <ins>Fix</ins>: Add the following option to allow unrelated histories to be merged:
