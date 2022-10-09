@@ -69,7 +69,7 @@ Steps:
 4. Click [Rename].
 5. Copy the repository URL.
 6. Run `git remote set-url origin {repository URL}` in a command-line interface. 
-7. Run `git remote show origin` to check the new repository URL.
+7. Run `git remote -v` or `git remote show origin` to check the new repository URL.
 
 ## Extra: How to Set Up a Local Branch to Track a Remote Branch
 
