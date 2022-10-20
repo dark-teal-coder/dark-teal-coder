@@ -225,10 +225,6 @@ In random order:
 - [Simple Icons](https://simpleicons.org/)
 - [b64.io](https://b64.io)
 
-<br />
-
-*Last modified date: Jun 28, 2022*
-
 <!---
 dark-teal-coder/dark-teal-coder is a special repository because its `README.md` (current file) appears on your GitHub profile. Click on [Preview] tab to take a look at your changes. 
 --->
