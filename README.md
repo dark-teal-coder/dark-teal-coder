@@ -141,9 +141,10 @@ I withdrew the R programming course at graduate level as I just got a new full-t
 
 - [Job Bank Web Scraper and Data Analyzer](https://github.com/dark-teal-coder/edu-postgrad-harvard/tree/main/introduction-to-programming-with-python/project)
     - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "edu-postgrad-harvard" repository >> Choose "introduction-to-programming-with-python" sub-directory >> Choose "project" sub-directory
-
 - [Python Data Visualization of Top Car Horsepower with Bokeh](https://github.com/dark-teal-coder/ttr-py-data-vis-bokeh-car-horsepower)
     - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "ttr-py-data-vis-bokeh-car-horsepower" repository
+- [Python Data Analysis of Tech Gadget Sales with Pandas](https://github.com/dark-teal-coder/ttr-py-data-analysis-pandas-gadget-sales)
+    - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "ttr-py-data-analysis-pandas-gadget-sales" repository
 - [Washington Post Web Scraper](https://github.com/dark-teal-coder/project-washington-post-web-scraper) (incomplete)
     - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "project-washington-post-web-scraper" repository
 - [Demographic Data Analyzer](https://github.com/dark-teal-coder/freecodecamp-data-analysis-with-python/tree/main/03-data-analysis-with-python-projects/project-demographic-data-analyzer) (incomplete)
