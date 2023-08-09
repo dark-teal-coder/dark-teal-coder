@@ -22,6 +22,7 @@ Use `YYYY/MM/DD` format for completion date. If completion date is 0000/00/00, i
 | **Course** | **Completion Date** | **Certificate** |
 |:-----------|:-------------------:|:---------------:|
 | [Git for Developers Using Github](https://www.coursera.org/projects/git-for-developers-using-github) | 2021/07/23 | [Certificate](https://coursera.org/share/0f6eebbea097ac24dd6075e433269056) |
+| [Create Your First Python Program From UST](https://www.coursera.org/projects/first-python-program-ust) | 2023/06/11 | [Certificate](https://coursera.org/share/dbe8b4e4700caad0f162200855bd7d0d) |
 
 ## ![EdX](https://img.shields.io/badge/edX-02262B.svg?style=for-the-badge&logo=edx&logoColor=white)
 | **Course** | **Completion Date** | **Certificate** |
