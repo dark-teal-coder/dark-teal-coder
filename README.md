@@ -24,7 +24,7 @@ Use `YYYY/MM/DD` format for completion date. If completion date is 0000/00/00, i
 | [Git for Developers Using Github](https://www.coursera.org/projects/git-for-developers-using-github) | 2021/07/23 | [Certificate](https://coursera.org/share/0f6eebbea097ac24dd6075e433269056) |
 | [Create Your First Python Program From UST](https://www.coursera.org/projects/first-python-program-ust) | 2023/06/11 | [Certificate](https://coursera.org/share/dbe8b4e4700caad0f162200855bd7d0d) |
 | [Crash Course on Python](https://www.coursera.org/learn/python-crash-course) | 2023/08/07 | [Certificate](https://coursera.org/share/3b7e73ceb7cbe025c7817691e7da306a) |
-| [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github) | 2023/10/13 | [Certificate](https://coursera.org/share/89dc67e456ae63a6bb82d13944329d44) |
+| [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github) | 2023/10/13 | [Certificate](https://coursera.org/share/6b8cd524d6dc51c3e5f18529791b23fe) |
 
 ## ![EdX](https://img.shields.io/badge/edX-02262B.svg?style=for-the-badge&logo=edx&logoColor=white)
 | **Course** | **Completion Date** | **Certificate** |
