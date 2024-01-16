@@ -47,7 +47,7 @@ Use `YYYY/MM/DD` format for completion date. If completion date is 0000/00/00, i
 | **Course** | **Completion Date** | **Certificate** |
 |:-----------|:-------------------:|:---------------:|
 | [43 Ideas for Starting a Side Business](https://www.linkedin.com/learning/43-ideas-for-starting-a-side-business) | 2021/07/21 | [Certificate](https://github.com/dark-teal-coder/dark-teal-coder/blob/1c54cdb68d526b7608d26128b8ad2625b5f51c72/certificates/linkedin-learning/LinkedIn%20Learning%20%E2%80%A2%20Certificate%20%E2%80%A2%2043%20Ideas%20for%20Starting%20a%20Side%20Business.pdf) |
-| [5 Personal Finance Tips]() (URL removed) | 2021/07/27 | [Certificate](./certificates/linkedin-learning/sololearn-cert-java.png) |
+| [5 Personal Finance Tips]() (URL removed) | 2021/07/27 | [Certificate](/certificates/linkedin-learning/LinkedIn Learning • Certificate • 43 Ideas for Starting a Side Business.pdf) |
 | [Developing a YouTube Strategy](https://www.linkedin.com/learning/developing-a-youtube-strategy) | 2021/08/06 | [Certificate]() (missing URL) |
 | [Giving Your Elevator Pitch](https://www.linkedin.com/learning/giving-your-elevator-pitch) | 2021/08/28 | [Certificate]() (missing URL) |
 | [Guy Kawasaki on Entrepreneurship](https://www.linkedin.com/learning/guy-kawasaki-on-entrepreneurship) | 2021/07/27 | [Certificate]() (missing URL) |
