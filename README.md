@@ -46,7 +46,7 @@ Use `YYYY/MM/DD` format for completion date. If completion date is 0000/00/00, i
 ## ![LinkedIn Learning](https://img.shields.io/badge/-LinkedIn%20Learning-0072b1.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 | **Course** | **Completion Date** | **Certificate** |
 |:-----------|:-------------------:|:---------------:|
-| [43 Ideas for Starting a Side Business](https://www.linkedin.com/learning/43-ideas-for-starting-a-side-business) | 2021/07/21 | [Certificate](https://github.com/dark-teal-coder/dark-teal-coder/blob/1c54cdb68d526b7608d26128b8ad2625b5f51c72/certificates/linkedin-learning/LinkedIn%20Learning%20%E2%80%A2%20Certificate%20%E2%80%A2%2043%20Ideas%20for%20Starting%20a%20Side%20Business.pdf) |
+| [43 Ideas for Starting a Side Business](https://www.linkedin.com/learning/43-ideas-for-starting-a-side-business) | 2021/07/21 | [Certificate](certificates/linkedIn-learning-cert-43-ideas-for-starting-a-side-business.pdf) |
 | [5 Personal Finance Tips]() (URL removed) | 2021/07/27 | [Certificate](https://github.com/dark-teal-coder/dark-teal-coder/blob/08ace3b1bb7d18f3f2ef2caa4f5edec927255420/certificates/linkedin-learning/LinkedIn%20Learning%20%E2%80%A2%20Certificate%20%E2%80%A2%205%20Personal%20Finance%20Tips.pdf) |
 | [Developing a YouTube Strategy](https://www.linkedin.com/learning/developing-a-youtube-strategy) | 2021/08/06 | [Certificate]() (missing URL) |
 | [Giving Your Elevator Pitch](https://www.linkedin.com/learning/giving-your-elevator-pitch) | 2021/08/28 | [Certificate]() (missing URL) |
