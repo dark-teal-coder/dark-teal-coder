@@ -48,7 +48,7 @@ Use `YYYY/MM/DD` format for completion date. If completion date is 0000/00/00, i
 |:-----------|:-------------------:|:---------------:|
 | [43 Ideas for Starting a Side Business](https://www.linkedin.com/learning/43-ideas-for-starting-a-side-business) | 2021/07/21 | [Certificate](/certificates/linkedIn-learning-cert-43-ideas-for-starting-a-side-business.pdf) |
 | [5 Personal Finance Tips]() (URL removed) | 2021/07/27 | [Certificate](/certificates/linkedIn-learning-cert-5-personal-finance-tips.pdf) |
-| [Developing a YouTube Strategy](https://www.linkedin.com/learning/developing-a-youtube-strategy) | 2021/08/06 | [Certificate](/certificates/linkedIn-learning-cert-developing-a-youtube-strategy.pdf) (missing URL) |
+| [Developing a YouTube Strategy](https://www.linkedin.com/learning/developing-a-youtube-strategy) | 2021/08/06 | [Certificate](/certificates/linkedIn-learning-cert-developing-a-youtube-strategy.pdf) |
 | [Giving Your Elevator Pitch](https://www.linkedin.com/learning/giving-your-elevator-pitch) | 2021/08/28 | [Certificate]() (missing URL) |
 | [Guy Kawasaki on Entrepreneurship](https://www.linkedin.com/learning/guy-kawasaki-on-entrepreneurship) | 2021/07/27 | [Certificate]() (missing URL) |
 | [Learning FTP](https://www.linkedin.com/learning/learning-sftp) | 2021/07/29 | [Certificate]() (missing URL) |
