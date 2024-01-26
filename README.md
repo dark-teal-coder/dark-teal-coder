@@ -50,7 +50,7 @@ Use `YYYY/MM/DD` format for completion date. If completion date is 0000/00/00, i
 | [5 Personal Finance Tips]() (URL removed) | 2021/07/27 | [Certificate](/certificates/linkedIn-learning-cert-5-personal-finance-tips.pdf) |
 | [Developing a YouTube Strategy](https://www.linkedin.com/learning/developing-a-youtube-strategy) | 2021/08/06 | [Certificate](/certificates/linkedIn-learning-cert-developing-a-youtube-strategy.pdf) |
 | [Giving Your Elevator Pitch](https://www.linkedin.com/learning/giving-your-elevator-pitch) | 2021/08/28 | [Certificate](/certificates/linkedIn-learning-cert-giving-your-elevator-pitch.pdf) |
-| [Guy Kawasaki on Entrepreneurship](https://www.linkedin.com/learning/guy-kawasaki-on-entrepreneurship) | 2021/07/27 | [Certificate]() (missing URL) |
+| [Guy Kawasaki on Entrepreneurship](https://www.linkedin.com/learning/guy-kawasaki-on-entrepreneurship) | 2021/07/27 | [Certificate](/certificates/linkedIn-learning-cert-guy-kawasaki-on-entrepreneurship.pdf) |
 | [Learning FTP](https://www.linkedin.com/learning/learning-sftp) | 2021/07/29 | [Certificate]() (missing URL) |
 | [The Practices of High-Performing Employees](https://www.linkedin.com/learning/the-practices-of-high-performing-employees) | 2021/07/28 | [Certificate]() (missing URL) |
 | [Understanding Business](https://www.linkedin.com/learning/understanding-business) | 2021/09/03 | [Certificate]() (missing URL) |
