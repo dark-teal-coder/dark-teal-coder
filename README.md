@@ -53,7 +53,7 @@ Use `YYYY/MM/DD` format for completion date. If completion date is 0000/00/00, i
 | [Guy Kawasaki on Entrepreneurship](https://www.linkedin.com/learning/guy-kawasaki-on-entrepreneurship) | 2021/07/27 | [Certificate](/certificates/linkedIn-learning-cert-guy-kawasaki-on-entrepreneurship.pdf) |
 | [Learning FTP](https://www.linkedin.com/learning/learning-sftp) | 2021/07/29 | [Certificate](/certificates/linkedIn-learning-cert-learning-ftp.pdf) |
 | [The Practices of High-Performing Employees](https://www.linkedin.com/learning/the-practices-of-high-performing-employees) | 2021/07/28 | [Certificate](/certificates/linkedIn-learning-cert-the-practices-of-high-performing-employees.pdf) |
-| [Understanding Business](https://www.linkedin.com/learning/understanding-business) | 2021/09/03 | [Certificate]() (missing URL) |
+| [Understanding Business](https://www.linkedin.com/learning/understanding-business) | 2021/09/03 | [Certificate](/certificates/linkedIn-learning-cert-understanding-business.pdf) |
 | [Women Transforming Tech: Breaking Bias](https://www.linkedin.com/learning/women-transforming-tech-breaking-bias-2) | 2021/08/04 | [Certificate]() (missing URL) |
 | [Women Transforming Tech: Building Your Brand](https://www.linkedin.com/learning/women-transforming-tech-building-your-brand) | 2021/08/02 | [Certificate]() (missing URL) |
 | [Women Transforming Tech: Career Insights](https://www.linkedin.com/learning/women-transforming-tech-career-insights) | 2021/08/07 | [Certificate]() (missing URL) |
