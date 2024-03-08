@@ -40,8 +40,8 @@ Use `YYYY/MM/DD` format for completion date. If completion date is 0000/00/00, i
 ## ![SoloLearn](https://img.shields.io/badge/-Sololearn-8252DE.svg?style=for-the-badge&logo=Sololearn&logoColor=white)
 | **Course** | **Completion Date** | **Certificate** |
 |:-----------|:-------------------:|:---------------:|
-| [Java](https://www.sololearn.com/learning/1068) | 2017/11/07 | [Certificate](https://raw.githubusercontent.com/dark-teal-coder/dark-teal-coder/70edae252639b3d74fa7b6bbc7aa4987c82acd18/certificates/sololearn-cert-java.png) |
 | [SQL](https://www.sololearn.com/learning/1060) | 2017/11/29 | [Certificate](https://raw.githubusercontent.com/dark-teal-coder/dark-teal-coder/70edae252639b3d74fa7b6bbc7aa4987c82acd18/certificates/sololearn-cert-sql.png) |
+| [Introduction to Java](https://www.sololearn.com/en/learn/courses/java-introduction) | 2024/03/07 | [Certificate](./certificates/sololearn-cert-java-intro.jpg) |
 
 ## ![LinkedIn Learning](https://img.shields.io/badge/-LinkedIn%20Learning-0072b1.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 | **Course** | **Completion Date** | **Certificate** |
