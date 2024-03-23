@@ -16,20 +16,20 @@ Check out my [Gists](https://gist.github.com/dark-teal-coder) for some code snip
 
 # Learning Matters :nerd_face:
 
-Use `YYYY/MM/DD` format for completion date. If completion date is 0000/00/00, it means incomplete.
+Use `YYYY/MM/DD` format for the completion date. 0000/00/00 means incomplete. Since the certificates contain personal information, they are made private. Please send a request to access and see all the certificates below. 
 
 ## ![Coursera](https://img.shields.io/badge/Coursera-0056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
 | **Course** | **Completion Date** | **Certificate** |
 |:-----------|:-------------------:|:---------------:|
-| [Git for Developers Using Github](https://www.coursera.org/projects/git-for-developers-using-github) | 2021/07/23 | [Certificate](https://coursera.org/share/0f6eebbea097ac24dd6075e433269056) |
-| [Create Your First Python Program From UST](https://www.coursera.org/projects/first-python-program-ust) | 2023/06/11 | [Certificate](https://coursera.org/share/dbe8b4e4700caad0f162200855bd7d0d) |
-| [Crash Course on Python](https://www.coursera.org/learn/python-crash-course) | 2023/08/07 | [Certificate](https://coursera.org/share/3b7e73ceb7cbe025c7817691e7da306a) |
-| [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github) | 2023/10/13 | [Certificate](https://coursera.org/share/6b8cd524d6dc51c3e5f18529791b23fe) |
+| [Git for Developers Using Github](https://www.coursera.org/projects/git-for-developers-using-github) | 2021/07/23 | [Certificate]() |
+| [Create Your First Python Program From UST](https://www.coursera.org/projects/first-python-program-ust) | 2023/06/11 | [Certificate]() |
+| [Crash Course on Python](https://www.coursera.org/learn/python-crash-course) | 2023/08/07 | [Certificate]() |
+| [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github) | 2023/10/13 | [Certificate]() |
 
 ## ![EdX](https://img.shields.io/badge/edX-02262B.svg?style=for-the-badge&logo=edx&logoColor=white)
 | **Course** | **Completion Date** | **Certificate** |
 |:-----------|:-------------------:|:---------------:|
-| [Python Basics for Data Science](https://www.edx.org/course/python-basics-for-data-science) | 2019/12/28 | [Certificate](https://courses.edx.org/certificates/3a26889633134fd29504a49429c8849d) |
+| [Python Basics for Data Science](https://www.edx.org/course/python-basics-for-data-science) | 2019/12/28 | [Certificate]() |
 
 ## ![freeCodeCamp](https://img.shields.io/badge/freecodecamp-27273D.svg?style=for-the-badge&logo=freecodecamp&logoColor=white)
 | **Course** | **Completion Date** | **Certificate** |
@@ -40,48 +40,48 @@ Use `YYYY/MM/DD` format for completion date. If completion date is 0000/00/00, i
 ## ![SoloLearn](https://img.shields.io/badge/-Sololearn-8252DE.svg?style=for-the-badge&logo=Sololearn&logoColor=white)
 | **Course** | **Completion Date** | **Certificate** |
 |:-----------|:-------------------:|:---------------:|
-| [SQL](https://www.sololearn.com/learning/1060) | 2017/11/29 | [Certificate](https://raw.githubusercontent.com/dark-teal-coder/dark-teal-coder/70edae252639b3d74fa7b6bbc7aa4987c82acd18/certificates/sololearn-cert-sql.png) |
-| [Introduction to Java](https://www.sololearn.com/en/learn/courses/java-introduction) | 2024/03/07 | [Certificate](./certificates/sololearn-cert-java-intro.jpg) |
+| [SQL](https://www.sololearn.com/learning/1060) | 2017/11/29 | [Certificate]() |
+| [Introduction to Java](https://www.sololearn.com/en/learn/courses/java-introduction) | 2024/03/07 | [Certificate]() |
 
 ## ![LinkedIn Learning](https://img.shields.io/badge/-LinkedIn%20Learning-0072b1.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 | **Course** | **Completion Date** | **Certificate** |
 |:-----------|:-------------------:|:---------------:|
-| [43 Ideas for Starting a Side Business](https://www.linkedin.com/learning/43-ideas-for-starting-a-side-business) | 2021/07/21 | [Certificate](/certificates/linkedIn-learning-cert-43-ideas-for-starting-a-side-business.pdf) |
-| [5 Personal Finance Tips]() (URL removed) | 2021/07/27 | [Certificate](/certificates/linkedIn-learning-cert-5-personal-finance-tips.pdf) |
-| [Developing a YouTube Strategy](https://www.linkedin.com/learning/developing-a-youtube-strategy) | 2021/08/06 | [Certificate](/certificates/linkedIn-learning-cert-developing-a-youtube-strategy.pdf) |
-| [Giving Your Elevator Pitch](https://www.linkedin.com/learning/giving-your-elevator-pitch) | 2021/08/28 | [Certificate](/certificates/linkedIn-learning-cert-giving-your-elevator-pitch.pdf) |
-| [Guy Kawasaki on Entrepreneurship](https://www.linkedin.com/learning/guy-kawasaki-on-entrepreneurship) | 2021/07/27 | [Certificate](/certificates/linkedIn-learning-cert-guy-kawasaki-on-entrepreneurship.pdf) |
-| [Learning FTP](https://www.linkedin.com/learning/learning-sftp) | 2021/07/29 | [Certificate](/certificates/linkedIn-learning-cert-learning-ftp.pdf) |
-| [The Practices of High-Performing Employees](https://www.linkedin.com/learning/the-practices-of-high-performing-employees) | 2021/07/28 | [Certificate](/certificates/linkedIn-learning-cert-the-practices-of-high-performing-employees.pdf) |
-| [Understanding Business](https://www.linkedin.com/learning/understanding-business) | 2021/09/03 | [Certificate](/certificates/linkedIn-learning-cert-understanding-business.pdf) |
-| [Women Transforming Tech: Breaking Bias](https://www.linkedin.com/learning/women-transforming-tech-breaking-bias-2) | 2021/08/04 | [Certificate](/certificates/linkedIn-learning-cert-women-transforming-tech-breaking-bias.pdf) |
-| [Women Transforming Tech: Building Your Brand](https://www.linkedin.com/learning/women-transforming-tech-building-your-brand) | 2021/08/02 | [Certificate](/certificates/linkedIn-learning-cert-women-transforming-tech-building-your-brand.pdf) |
-| [Women Transforming Tech: Career Insights](https://www.linkedin.com/learning/women-transforming-tech-career-insights) | 2021/08/07 | [Certificate](/certificates/linkedIn-learning-cert-women-transforming-tech-career-insights.pdf) |
-| [Women Transforming Tech: Networking](https://www.linkedin.com/learning/women-transforming-tech-networking) | 2021/08/25 | [Certificate](/certificates/linkedIn-learning-cert-women-transforming-tech-networking.pdf) |
+| [43 Ideas for Starting a Side Business](https://www.linkedin.com/learning/43-ideas-for-starting-a-side-business) | 2021/07/21 | [Certificate]() |
+| [5 Personal Finance Tips]() (URL removed) | 2021/07/27 | [Certificate]() |
+| [Developing a YouTube Strategy](https://www.linkedin.com/learning/developing-a-youtube-strategy) | 2021/08/06 | [Certificate]() |
+| [Giving Your Elevator Pitch](https://www.linkedin.com/learning/giving-your-elevator-pitch) | 2021/08/28 | [Certificate]() |
+| [Guy Kawasaki on Entrepreneurship](https://www.linkedin.com/learning/guy-kawasaki-on-entrepreneurship) | 2021/07/27 | [Certificate]() |
+| [Learning FTP](https://www.linkedin.com/learning/learning-sftp) | 2021/07/29 | [Certificate]() |
+| [The Practices of High-Performing Employees](https://www.linkedin.com/learning/the-practices-of-high-performing-employees) | 2021/07/28 | [Certificate]() |
+| [Understanding Business](https://www.linkedin.com/learning/understanding-business) | 2021/09/03 | [Certificate]() |
+| [Women Transforming Tech: Breaking Bias](https://www.linkedin.com/learning/women-transforming-tech-breaking-bias-2) | 2021/08/04 | [Certificate]() |
+| [Women Transforming Tech: Building Your Brand](https://www.linkedin.com/learning/women-transforming-tech-building-your-brand) | 2021/08/02 | [Certificate]() |
+| [Women Transforming Tech: Career Insights](https://www.linkedin.com/learning/women-transforming-tech-career-insights) | 2021/08/07 | [Certificate]() |
+| [Women Transforming Tech: Networking](https://www.linkedin.com/learning/women-transforming-tech-networking) | 2021/08/25 | [Certificate]() |
 
 For course summaries, please visit [Course Summary LinkedIn Learning](https://roxy-wong.gitbook.io/linkedin-learning/).
 
 ## ![Real Python](https://img.shields.io/badge/-Real%20Python-18354C.svg?style=for-the-badge&logo=python&logoColor=white)
 | **Course** | **Completion Date** | **Certificate** |
 |:-----------|:-------------------:|:---------------:|
-| [Welcome to Real Python!](https://realpython.com/courses/real-python-welcome) | 2021/07/24 | [Certificate](https://realpython.com/certificates/9789a229-0745-4819-99dd-0729dc332302) |
-| [Basic Data Types in Python](https://realpython.com/courses/python-data-types) | 2021/08/27 | [Certificate](https://realpython.com/certificates/cd8b9b42-ad82-4976-b1ab-43aef1eeeffe) |
-| [How to Write Pythonic Loops](https://realpython.com/courses/how-to-write-pythonic-loops) | 2021/12/01 | [Certificate](https://realpython.com/certificates/718b1fb5-8429-4003-b51f-3e348aed911c) |
-| [Using List Comprehensions Effectively](https://realpython.com/courses/using-list-comprehensions-effectively) | 2021/12/01 | [Certificate](https://realpython.com/certificates/6f8b8b5e-be3a-4c1f-9da2-c0253cbc876b) |
-| [Convert a Python String to int](https://realpython.com/courses/convert-python-string-int) | 2021/12/01 | [Certificate](https://realpython.com/certificates/4227e0ae-42db-4564-bb69-0556cdbe736c) |
-| [Conditional Statements in Python (if/elif/else)](https://realpython.com/courses/python-conditional-statements) | 2022/06/08 | [Certificate](https://realpython.com/certificates/6a5a2d03-6cd3-47dc-b1b6-2c58a74c4387) |
-| [Web Scraping With Beautiful Soup and Python](https://realpython.com/courses/web-scraping-beautiful-soup/) | 2022/06/14 | [Certificate](https://realpython.com/certificates/38bc4d57-71d0-4140-b779-d857487ed8d7) |
-| [Start Managing Multiple Python Versions With pyenv](https://realpython.com/courses/start-with-pyenv) | 2022/06/18 | [Certificate](https://realpython.com/certificates/a7d4fd03-c584-45d5-8215-e40edcfa8707) |
-| [Migrating Applications From Python 2 to Python 3](https://realpython.com/courses/migrating-applications-python-2-python-3) | 2022/06/20 | [Certificate](https://realpython.com/certificates/36d5fc11-c10c-4c43-9ecb-4aaa6f379f3b) |
-| [Learn Text Classification With Python and Keras](https://realpython.com/courses/text-classification-with-keras) | 2022/06/20 | [Certificate](https://realpython.com/certificates/ca9af5c6-9aec-449f-bda6-7814998df77b) |
-| [Speech Recognition With Python](https://realpython.com/courses/speech-recognition-python) | 2022/06/20 | [Certificate](https://realpython.com/certificates/edd77a99-08c0-4c08-9454-32e38704ff5b) |
-| [Django Admin Customization](https://realpython.com/courses/django-admin-customization) | 2022/06/20 | [Certificate](https://realpython.com/certificates/d9a42d4f-5920-4168-a8b5-06be5e31eb62) |
-| [Understanding Python List Comprehensions](https://realpython.com/courses/understand-list-comprehensions) | 2022/06/21 | [Certificate](https://realpython.com/certificates/99fd24e7-2d62-40e0-8c11-ea23e3a61d31) |
-| [Speed Up Python With Concurrency](https://realpython.com/courses/speed-python-concurrency/) | 2022/06/21 | [Certificate](https://realpython.com/certificates/8c823ef0-7dc5-42cb-92c7-7de4e545df79) |
-| [Functional Programming in Python](https://realpython.com/courses/functional-programming-python) | 2022/07/02 | [Certificate](https://realpython.com/certificates/4be26339-09c0-49ab-9b69-12f7e8bba3fb) |
-| [Building HTTP APIs With Django REST Framework](https://realpython.com/courses/django-rest-framework) | 2022/07/05 | [Certificate](https://realpython.com/certificates/4d4c3076-6bc9-42bd-95ed-c2c5e0abaa0e) |
-| [Using Pandas to Make a Gradebook in Python](https://realpython.com/courses/gradebook-using-pandas-python) | 2022/08/22 | [Certificate](https://realpython.com/certificates/20634d53-4cc9-4d4d-9eb2-61ac8e241cd9) |
-| [Unicode in Python: Working With Character Encodings](https://realpython.com/courses/python-unicode) | 2022/08/27 | [Certificate](https://realpython.com/certificates/aa17391d-24ff-45e9-a2c1-496c45f62a10) |
+| [Welcome to Real Python!](https://realpython.com/courses/real-python-welcome) | 2021/07/24 | [Certificate]() |
+| [Basic Data Types in Python](https://realpython.com/courses/python-data-types) | 2021/08/27 | [Certificate]() |
+| [How to Write Pythonic Loops](https://realpython.com/courses/how-to-write-pythonic-loops) | 2021/12/01 | [Certificate]() |
+| [Using List Comprehensions Effectively](https://realpython.com/courses/using-list-comprehensions-effectively) | 2021/12/01 | [Certificate]() |
+| [Convert a Python String to int](https://realpython.com/courses/convert-python-string-int) | 2021/12/01 | [Certificate]() |
+| [Conditional Statements in Python (if/elif/else)](https://realpython.com/courses/python-conditional-statements) | 2022/06/08 | [Certificate]() |
+| [Web Scraping With Beautiful Soup and Python](https://realpython.com/courses/web-scraping-beautiful-soup/) | 2022/06/14 | [Certificate]() |
+| [Start Managing Multiple Python Versions With pyenv](https://realpython.com/courses/start-with-pyenv) | 2022/06/18 | [Certificate]() |
+| [Migrating Applications From Python 2 to Python 3](https://realpython.com/courses/migrating-applications-python-2-python-3) | 2022/06/20 | [Certificate]() |
+| [Learn Text Classification With Python and Keras](https://realpython.com/courses/text-classification-with-keras) | 2022/06/20 | [Certificate]() |
+| [Speech Recognition With Python](https://realpython.com/courses/speech-recognition-python) | 2022/06/20 | [Certificate]() |
+| [Django Admin Customization](https://realpython.com/courses/django-admin-customization) | 2022/06/20 | [Certificate]() |
+| [Understanding Python List Comprehensions](https://realpython.com/courses/understand-list-comprehensions) | 2022/06/21 | [Certificate]() |
+| [Speed Up Python With Concurrency](https://realpython.com/courses/speed-python-concurrency/) | 2022/06/21 | [Certificate]() |
+| [Functional Programming in Python](https://realpython.com/courses/functional-programming-python) | 2022/07/02 | [Certificate]() |
+| [Building HTTP APIs With Django REST Framework](https://realpython.com/courses/django-rest-framework) | 2022/07/05 | [Certificate]() |
+| [Using Pandas to Make a Gradebook in Python](https://realpython.com/courses/gradebook-using-pandas-python) | 2022/08/22 | [Certificate]() |
+| [Unicode in Python: Working With Character Encodings](https://realpython.com/courses/python-unicode) | 2022/08/27 | [Certificate]() |
 
 # Coding Matters :woman_technologist:
 
