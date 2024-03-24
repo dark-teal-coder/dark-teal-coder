@@ -16,7 +16,7 @@ Check out my [Gists](https://gist.github.com/dark-teal-coder) for some code snip
 
 # Learning Matters :nerd_face:
 
-Use `YYYY/MM/DD` format for the completion date. 0000/00/00 means incomplete. Since the certificates contain personal information, they are made private. Please send a request to access and see all the certificates below. 
+Use `YYYY/MM/DD` format for the completion date. 0000/00/00 means incomplete. Since the certificates contain personal information, they have been made private. Please send a request to access and see all the certificates listed below. 
 
 ## ![Coursera](https://img.shields.io/badge/Coursera-0056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
 | **Course** | **Completion Date** | **Certificate** |
