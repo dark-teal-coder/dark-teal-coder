@@ -28,9 +28,9 @@ Only selected courses are displayed below.
 | [Exam Prep: AWS Certified Cloud Practitioner Foundations](https://www.coursera.org/learn/cloud-practitioner-exam-prep) | Amazon Web Services | 2024/10/26 | NMU1ZOXJ8USF |
 
 ## ![EdX](https://img.shields.io/badge/edX-02262B.svg?style=for-the-badge&logo=edx&logoColor=white)
-| **Course** | **Completion Date** | **Certificate** |
-|:-----------|:-------------------:|:---------------:|
-| [Python Basics for Data Science](https://www.edx.org/course/python-basics-for-data-science) | 2019/12/28 | [Certificate]() |
+| **Course** | **Offered By** | **Completion Date** | **Certificate** |
+|:-----------|:--------------:|:-------------------:|:---------------:|
+| [Python Basics for Data Science](https://www.edx.org/course/python-basics-for-data-science) | IBM | 2019/12/28 | [Certificate]() |
 
 ## ![freeCodeCamp](https://img.shields.io/badge/freecodecamp-27273D.svg?style=for-the-badge&logo=freecodecamp&logoColor=white)
 | **Course** | **Completion Date** | **Certificate** |
