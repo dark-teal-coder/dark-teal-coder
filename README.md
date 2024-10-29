@@ -47,7 +47,6 @@ Use `YYYY/MM/DD` format for the completion date. 0000/00/00 means incomplete. Si
 | **Course** | **Completion Date** | **Certificate** |
 |:-----------|:-------------------:|:---------------:|
 | [43 Ideas for Starting a Side Business](https://www.linkedin.com/learning/43-ideas-for-starting-a-side-business) | 2021/07/21 | [Certificate](https://github.com/dark-teal-coder/certificates) |
-| [5 Personal Finance Tips]() (URL removed) | 2021/07/27 | [Certificate](https://github.com/dark-teal-coder/certificates) |
 | [Developing a YouTube Strategy](https://www.linkedin.com/learning/developing-a-youtube-strategy) | 2021/08/06 | [Certificate](https://github.com/dark-teal-coder/certificates) |
 | [Giving Your Elevator Pitch](https://www.linkedin.com/learning/giving-your-elevator-pitch) | 2021/08/28 | [Certificate](https://github.com/dark-teal-coder/certificates) |
 | [Guy Kawasaki on Entrepreneurship](https://www.linkedin.com/learning/guy-kawasaki-on-entrepreneurship) | 2021/07/27 | [Certificate](https://github.com/dark-teal-coder/certificates) |
