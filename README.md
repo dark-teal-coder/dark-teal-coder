@@ -20,12 +20,12 @@ Use `YYYY/MM/DD` format for the completion date. 0000/00/00 means incomplete. Si
 
 ## ![Coursera](https://img.shields.io/badge/Coursera-0056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
 Only selected courses are displayed below.
-| **Course** | **Completion Date** | **Certificate ID** |
-|:-----------|:-------------------:|:---------------:|
-| [Crash Course on Python](https://www.coursera.org/learn/python-crash-course) | 2023/08/07 | M7DNC54A5UCL |
-| [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github) | 2023/10/13 | BDH5H9946BQD |
-| [AWS Cloud Practitioner Essentials](https://www.coursera.org/learn/aws-cloud-practitioner-essentials) | 2024/09/26 | QRJYVYPDFNS1 |
-| [Exam Prep: AWS Certified Cloud Practitioner Foundations](https://www.coursera.org/learn/cloud-practitioner-exam-prep) | 2024/10/26 | NMU1ZOXJ8USF |
+| **Course** | **Offered By** | **Completion Date** | **Certificate ID** |
+|:-----------|:--------------:|:-------------------:|:------------------:|
+| [Crash Course on Python](https://www.coursera.org/learn/python-crash-course) | Google | 2023/08/07 | M7DNC54A5UCL |
+| [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github) | Google | 2023/10/13 | BDH5H9946BQD |
+| [AWS Cloud Practitioner Essentials](https://www.coursera.org/learn/aws-cloud-practitioner-essentials) | Amazon Web Services | 2024/09/26 | QRJYVYPDFNS1 |
+| [Exam Prep: AWS Certified Cloud Practitioner Foundations](https://www.coursera.org/learn/cloud-practitioner-exam-prep) | Amazon Web Services | 2024/10/26 | NMU1ZOXJ8USF |
 
 ## ![EdX](https://img.shields.io/badge/edX-02262B.svg?style=for-the-badge&logo=edx&logoColor=white)
 | **Course** | **Completion Date** | **Certificate** |
