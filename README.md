@@ -46,18 +46,18 @@ Use `YYYY/MM/DD` format for the completion date. 0000/00/00 means incomplete. Si
 ## ![LinkedIn Learning](https://img.shields.io/badge/-LinkedIn%20Learning-0072b1.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 | **Course** | **Completion Date** | **Certificate** |
 |:-----------|:-------------------:|:---------------:|
-| [43 Ideas for Starting a Side Business](https://www.linkedin.com/learning/43-ideas-for-starting-a-side-business) | 2021/07/21 | [Certificate]() |
-| [5 Personal Finance Tips]() (URL removed) | 2021/07/27 | [Certificate]() |
-| [Developing a YouTube Strategy](https://www.linkedin.com/learning/developing-a-youtube-strategy) | 2021/08/06 | [Certificate]() |
-| [Giving Your Elevator Pitch](https://www.linkedin.com/learning/giving-your-elevator-pitch) | 2021/08/28 | [Certificate]() |
-| [Guy Kawasaki on Entrepreneurship](https://www.linkedin.com/learning/guy-kawasaki-on-entrepreneurship) | 2021/07/27 | [Certificate]() |
-| [Learning FTP](https://www.linkedin.com/learning/learning-sftp) | 2021/07/29 | [Certificate]() |
-| [The Practices of High-Performing Employees](https://www.linkedin.com/learning/the-practices-of-high-performing-employees) | 2021/07/28 | [Certificate]() |
-| [Understanding Business](https://www.linkedin.com/learning/understanding-business) | 2021/09/03 | [Certificate]() |
-| [Women Transforming Tech: Breaking Bias](https://www.linkedin.com/learning/women-transforming-tech-breaking-bias-2) | 2021/08/04 | [Certificate]() |
-| [Women Transforming Tech: Building Your Brand](https://www.linkedin.com/learning/women-transforming-tech-building-your-brand) | 2021/08/02 | [Certificate]() |
-| [Women Transforming Tech: Career Insights](https://www.linkedin.com/learning/women-transforming-tech-career-insights) | 2021/08/07 | [Certificate]() |
-| [Women Transforming Tech: Networking](https://www.linkedin.com/learning/women-transforming-tech-networking) | 2021/08/25 | [Certificate]() |
+| [43 Ideas for Starting a Side Business](https://www.linkedin.com/learning/43-ideas-for-starting-a-side-business) | 2021/07/21 | [Certificate](https://github.com/dark-teal-coder/certificates) |
+| [5 Personal Finance Tips]() (URL removed) | 2021/07/27 | [Certificate](https://github.com/dark-teal-coder/certificates) |
+| [Developing a YouTube Strategy](https://www.linkedin.com/learning/developing-a-youtube-strategy) | 2021/08/06 | [Certificate](https://github.com/dark-teal-coder/certificates) |
+| [Giving Your Elevator Pitch](https://www.linkedin.com/learning/giving-your-elevator-pitch) | 2021/08/28 | [Certificate](https://github.com/dark-teal-coder/certificates) |
+| [Guy Kawasaki on Entrepreneurship](https://www.linkedin.com/learning/guy-kawasaki-on-entrepreneurship) | 2021/07/27 | [Certificate](https://github.com/dark-teal-coder/certificates) |
+| [Learning FTP](https://www.linkedin.com/learning/learning-sftp) | 2021/07/29 | [Certificate](https://github.com/dark-teal-coder/certificates) |
+| [The Practices of High-Performing Employees](https://www.linkedin.com/learning/the-practices-of-high-performing-employees) | 2021/07/28 | [Certificate](https://github.com/dark-teal-coder/certificates) |
+| [Understanding Business](https://www.linkedin.com/learning/understanding-business) | 2021/09/03 | [Certificate](https://github.com/dark-teal-coder/certificates) |
+| [Women Transforming Tech: Breaking Bias](https://www.linkedin.com/learning/women-transforming-tech-breaking-bias-2) | 2021/08/04 | [Certificate](https://github.com/dark-teal-coder/certificates) |
+| [Women Transforming Tech: Building Your Brand](https://www.linkedin.com/learning/women-transforming-tech-building-your-brand) | 2021/08/02 | [Certificate](https://github.com/dark-teal-coder/certificates) |
+| [Women Transforming Tech: Career Insights](https://www.linkedin.com/learning/women-transforming-tech-career-insights) | 2021/08/07 | [Certificate](https://github.com/dark-teal-coder/certificates) |
+| [Women Transforming Tech: Networking](https://www.linkedin.com/learning/women-transforming-tech-networking) | 2021/08/25 | [Certificate](https://github.com/dark-teal-coder/certificates) |
 
 For course summaries, please visit [Course Summary LinkedIn Learning](https://roxy-wong.gitbook.io/linkedin-learning/).
 
