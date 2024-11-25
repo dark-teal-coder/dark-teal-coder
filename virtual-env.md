@@ -17,3 +17,13 @@ When you check the new "projectA" folder, you will notice that a new folder call
 If we check the contents of <virtual-environment-name> for a bit, on a Windows, you will see a "Scripts" folder. You will also see scripts that are typically used to control your virtual environment, such as activate and pip to install libraries, and the Python interpreter for the Python version you installed, and so on. 
 
 The "Lib" folder will contain a list of libraries that you have installed. If you take a look at it, you will see a list of the libraries that come by default with the virtual environment.
+
+# How to Activate the Virtual Environment
+
+Now that you have created the virtual environment, you will need to activate it before you can use it in your project. On a Windows, to activate your virtual environment, run the code below:
+
+```powershell
+.\<virtual-environment-name>\Scripts\activate
+```
+
+This will activate your virtual environment. Immediately, you will notice that your terminal path includes env, signifying an activated virtual environment.
