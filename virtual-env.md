@@ -56,6 +56,22 @@ pip freeze > requirements.txt
 
 You can name this requirements.txt file whatever you want.
 
+# Requirements File
+
+Why is a requirements file important to your project? Consider that you package your project in a zip file (without the env folder) and you share with your developer friend.
+
+To recreate your development environment, your friend will just need to follow the above steps to activate a new virtual environment.
+
+Instead of having to install each dependency one by one, they could just run the code below to install all your dependencies within their own copy of the project:
+
+```powershell
+pip install -r requirements.txt
+```
+
+Note that it is generally not advisable to share your env folder, and it should be easily replicated in any new environment.
+
+Typically your env directory will be included in a .gitignore file (when using version control platforms like GitHub) to ensure that the environment file is not pushed to the project repository.
+
 # Reference
 
 - [How to Set Up a Virtual Environment in Python – And Why It's Useful](https://www.freecodecamp.org/news/how-to-setup-virtual-environments-in-python/)
