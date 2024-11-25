@@ -44,6 +44,18 @@ pip list
 
 Next, you can run the same code above in a new terminal in which you haven't activated the virtual environment. You will notice a lot more libraries in your host Python that you may have installed in the past. These libraries are not part of your Python virtual environment until you install them.
 
+# How to Install Libraries in a Virtual Environment
+
+To install new libraries, you can easily just pip install the libraries. The virtual environment will make use of its own pip, so you don't need to use pip3.
+
+After installing your required libraries, you can view all installed libraries by using pip list, or you can generate a text file listing all your project dependencies by running the code below:
+
+```powershell
+pip freeze > requirements.txt
+```
+
+You can name this requirements.txt file whatever you want.
+
 # Reference
 
 - [How to Set Up a Virtual Environment in Python – And Why It's Useful](https://www.freecodecamp.org/news/how-to-setup-virtual-environments-in-python/)
