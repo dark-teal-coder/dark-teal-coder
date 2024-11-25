@@ -43,3 +43,7 @@ pip list
 ![pip-list-virtual-env.png](./images/pip-list-virtual-env.png)
 
 Next, you can run the same code above in a new terminal in which you haven't activated the virtual environment. You will notice a lot more libraries in your host Python that you may have installed in the past. These libraries are not part of your Python virtual environment until you install them.
+
+# Reference
+
+- [How to Set Up a Virtual Environment in Python – And Why It's Useful](https://www.freecodecamp.org/news/how-to-setup-virtual-environments-in-python/)
