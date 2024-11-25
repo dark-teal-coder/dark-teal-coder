@@ -84,6 +84,8 @@ To deactivate your virtual environment, simply run the following code in the ter
 deactivate
 ```
 
+![deactivate-virtual-env.png](./images/deactivate-virtual-env.png)
+
 # Reference
 
 - [How to Set Up a Virtual Environment in Python – And Why It's Useful](https://www.freecodecamp.org/news/how-to-setup-virtual-environments-in-python/)
