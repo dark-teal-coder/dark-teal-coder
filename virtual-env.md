@@ -40,4 +40,6 @@ First, we check the list of packages installed in our virtual environment by run
 pip list
 ```
 
+![pip-list-virtual-env.png](./images/pip-list-virtual-env.png)
+
 Next, you can run the same code above in a new terminal in which you haven't activated the virtual environment. You will notice a lot more libraries in your host Python that you may have installed in the past. These libraries are not part of your Python virtual environment until you install them.
