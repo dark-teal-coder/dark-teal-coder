@@ -26,4 +26,6 @@ Now that you have created the virtual environment, you will need to activate it 
 .\<virtual-environment-name>\Scripts\activate
 ```
 
+![activate-virtual-env.png](./images/activate-virtual-env.png)
+
 This will activate your virtual environment. Immediately, you will notice that your terminal path includes env, signifying an activated virtual environment.
