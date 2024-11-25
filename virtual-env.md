@@ -72,6 +72,14 @@ Note that it is generally not advisable to share your env folder, and it should 
 
 Typically your env directory will be included in a .gitignore file (when using version control platforms like GitHub) to ensure that the environment file is not pushed to the project repository.
 
+# How to Deactivate a Virtual Environment
+
+To deactivate your virtual environment, simply run the following code in the terminal:
+
+```powershell
+deactivate
+```
+
 # Reference
 
 - [How to Set Up a Virtual Environment in Python – And Why It's Useful](https://www.freecodecamp.org/news/how-to-setup-virtual-environments-in-python/)
