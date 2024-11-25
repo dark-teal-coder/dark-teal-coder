@@ -31,3 +31,13 @@ Now that you have created the virtual environment, you will need to activate it 
 This will activate your virtual environment. Immediately, you will notice that your terminal path includes env, signifying an activated virtual environment.
 
 ![activate-virtual-env.png](./images/activate-virtual-env.png)
+
+# How to Check if the Virtual Environment is Working
+
+First, we check the list of packages installed in our virtual environment by running the code below in the activated virtual environment. You will notice only two packages – pip and setuptools, which are the base packages that come default with a new virtual environment
+
+```powershell
+pip list
+```
+
+Next, you can run the same code above in a new terminal in which you haven't activated the virtual environment. You will notice a lot more libraries in your host Python that you may have installed in the past. These libraries are not part of your Python virtual environment until you install them.
