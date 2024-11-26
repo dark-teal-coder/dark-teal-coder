@@ -153,7 +153,7 @@ I withdrew the R programming course at graduate level as I just got a new full-t
     - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "project-data-analysis-pandas-titanic-survival" repository
 - [AWS S3 Website Responsive Birthday E-card](https://github.com/dark-teal-coder/aws-s3-web-birthday-ecard)
     - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "aws-s3-web-birthday-ecard" repository
-- [Introduction to Data Analysis using Microsoft Excel](https://github.com/dark-teal-coder/project-introduction-to-data-analysis-using-microsoft-excel)
+- [Introduction to Data Analysis Using Microsoft Excel](https://github.com/dark-teal-coder/project-introduction-to-data-analysis-using-microsoft-excel)
     - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "project-introduction-to-data-analysis-using-microsoft-excel" repository
 - [Python PDF Tools](https://github.com/dark-teal-coder/project-python-pdf-tools)
     - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "project-python-pdf-tools" repository
