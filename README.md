@@ -151,8 +151,6 @@ I withdrew the R programming course at graduate level as I just got a new full-t
     - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "ttr-py-data-analysis-pandas-gadget-sales" repository
 - [Python Data Analysis of Titanic Survival with Pandas](https://github.com/dark-teal-coder/project-data-analysis-pandas-titanic-survival)
     - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "project-data-analysis-pandas-titanic-survival" repository
-- [Washington Post Web Scraper](https://github.com/dark-teal-coder/project-washington-post-web-scraper) (incomplete)
-    - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "project-washington-post-web-scraper" repository
 - [Demographic Data Analyzer](https://github.com/dark-teal-coder/freecodecamp-data-analysis-with-python/tree/main/03-data-analysis-with-python-projects/project-demographic-data-analyzer) (incomplete)
     - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "freecodecamp-data-analysis-with-python" repository >> Choose "03-data-analysis-with-python-projects" sub-directory >> Choose "project-demographic-data-analyzer" sub-directory
 - [Mean-Variance-Standard Deviation Calculator](https://github.com/dark-teal-coder/freecodecamp-data-analysis-with-python/tree/main/03-data-analysis-with-python-projects/project-mean-variance-standard-deviation-calculator) (incomplete)
