@@ -157,6 +157,8 @@ I withdrew the R programming course at graduate level as I just got a new full-t
     - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "project-introduction-to-data-analysis-using-microsoft-excel" repository
 - [Python PDF Tools](https://github.com/dark-teal-coder/project-python-pdf-tools)
     - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "project-python-pdf-tools" repository
+- [Responsive Xmas E-card 2024 Using GitHub Pages](https://github.com/dark-teal-coder/web-responsive-xmas-ecard-2024)
+    - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "web-responsive-xmas-ecard-2024" repository
 - [Demographic Data Analyzer](https://github.com/dark-teal-coder/freecodecamp-data-analysis-with-python/tree/main/03-data-analysis-with-python-projects/project-demographic-data-analyzer) (incomplete)
     - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "freecodecamp-data-analysis-with-python" repository >> Choose "03-data-analysis-with-python-projects" sub-directory >> Choose "project-demographic-data-analyzer" sub-directory
 - [Mean-Variance-Standard Deviation Calculator](https://github.com/dark-teal-coder/freecodecamp-data-analysis-with-python/tree/main/03-data-analysis-with-python-projects/project-mean-variance-standard-deviation-calculator) (incomplete)
