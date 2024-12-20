@@ -120,8 +120,6 @@ I've taken the following course which used Java in my undergraduate studies. Lec
 ### Description
 I've taken the following undergraduate course that covers basic HTML and CSS syntax to create simple websites and JavaScript syntax to add interactivity to the websites many years ago.
 - [x] LT3210 Electronic Publishing [A]
-### Syntax and Concepts
-- ...
 
 ## SQL `.sql`
 ### Description
