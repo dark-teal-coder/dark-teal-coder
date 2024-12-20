@@ -123,11 +123,11 @@ I've taken the following undergraduate course that covers basic HTML and CSS syn
 ### Syntax and Concepts
 - ...
 
-## ![R badge](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) SQL `.sql`
+## SQL `.sql`
 ### Description
 - SQL learned in IS2240 Python Programming for Business [A-]
 
-## ![R badge](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) Groovy `.groovy`
+## Groovy `.groovy`
 ### Description
 - Groovy learned from work
 
