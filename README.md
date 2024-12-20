@@ -60,7 +60,7 @@ Only selected courses are displayed below.
 | [Women Transforming Tech: Career Insights](https://www.linkedin.com/learning/women-transforming-tech-career-insights) | 2021/08/07 | [Certificate](https://github.com/dark-teal-coder/certificates) |
 | [Women Transforming Tech: Networking](https://www.linkedin.com/learning/women-transforming-tech-networking) | 2021/08/25 | [Certificate](https://github.com/dark-teal-coder/certificates) |
 
-For course summaries, please visit [Course Summary LinkedIn Learning](https://roxy-wong.gitbook.io/linkedin-learning/).
+For course summaries, please visit [LinkedIn Learning Course Summary](https://dark-teal-coder.github.io/web-linkedin-learning-course-summary/).
 
 ## ![Real Python](https://img.shields.io/badge/-Real%20Python-18354C.svg?style=for-the-badge&logo=python&logoColor=white)
 | **Course** | **Completion Date** | **Certificate** |
