@@ -126,8 +126,10 @@ I've taken the following undergraduate course that covers basic HTML and CSS syn
 ## ![R badge](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) SQL `.sql`
 ### Description
 - SQL learned in IS2240 Python Programming for Business [A-]
-### Contents
-xxx
+
+## ![R badge](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) Groovy `.groovy`
+### Description
+- Groovy learned from work
 
 # Project Matters
 
