@@ -141,6 +141,12 @@ I withdrew the R programming course at graduate level as I just got a new full-t
 - Week 11 Summarizing Data
 - Week 12 ggplot2
 
+## ![R badge](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) SQL `.sql`
+### Description
+- SQL learned in IS2240 Python Programming for Business [A-]
+### Contents
+xxx
+
 # Project Matters
 
 - [Job Bank Web Scraper and Data Analyzer](https://github.com/dark-teal-coder/edu-postgrad-harvard/tree/main/introduction-to-programming-with-python/project)
