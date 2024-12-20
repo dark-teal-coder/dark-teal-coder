@@ -123,24 +123,6 @@ I've taken the following undergraduate course that covers basic HTML and CSS syn
 ### Syntax and Concepts
 - ...
 
-## ![R badge](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) R `.rmd`
-### Description
-I withdrew the R programming course at graduate level as I just got a new full-time job but I've saved most of the code and reading materials before the course locked me out. There are one midterm and one final that together contribute to 80% of the final course grade.
-- [x] CSCI E-5a R Programming [withdrawn]
-### Contents
-- Week 00 Course Orientation
-- Week 01 Basic R Graphics
-- Week 02 Numeric Values
-- Week 03 Vectors
-- Week 04 Iteration
-- Week 05 Logical Values
-- Week 06 Categorical Data
-- Week 08 Strings and Functions
-- Week 09 Data Frames
-- Week 10 Managing Data
-- Week 11 Summarizing Data
-- Week 12 ggplot2
-
 ## ![R badge](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) SQL `.sql`
 ### Description
 - SQL learned in IS2240 Python Programming for Business [A-]
