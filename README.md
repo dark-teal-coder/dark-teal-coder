@@ -125,7 +125,8 @@ I've taken the following undergraduate course that covers basic HTML and CSS syn
 
 ## SQL `.sql`
 ### Description
-- SQL learned in IS2240 Python Programming for Business [A-]
+I learned SQL in the course IS2240 Python Programming for Business when I did my undergraduate studies.
+- [x] IS2240 Python Programming for Business [A-]
 
 ## Groovy `.groovy`
 ### Description
