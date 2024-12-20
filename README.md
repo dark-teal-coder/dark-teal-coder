@@ -128,7 +128,7 @@ I learned SQL in the course IS2240 Python Programming for Business when I did my
 
 ## Groovy `.groovy`
 ### Description
-- Groovy learned from work
+I learned Groovy from work when I did automated testing for a company website in Katalon Studio.
 
 # Project Matters
 
