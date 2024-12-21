@@ -84,6 +84,47 @@ For course summaries, please visit [LinkedIn Learning Course Summary](https://da
 | [Using Pandas to Make a Gradebook in Python](https://realpython.com/courses/gradebook-using-pandas-python) | 2022/08/22 | [Certificate]() |
 | [Unicode in Python: Working With Character Encodings](https://realpython.com/courses/python-unicode) | 2022/08/27 | [Certificate]() |
 
+# Project Matters
+
+- [Job Bank Web Scraper and Data Analyzer](https://github.com/dark-teal-coder/edu-postgrad-harvard/tree/main/introduction-to-programming-with-python/project)
+    - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "edu-postgrad-harvard" repository >> Choose "introduction-to-programming-with-python" sub-directory >> Choose "project" sub-directory
+- [Python Data Visualization of Top Car Horsepower with Bokeh](https://github.com/dark-teal-coder/ttr-py-data-vis-bokeh-car-horsepower)
+    - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "ttr-py-data-vis-bokeh-car-horsepower" repository
+- [Python Data Analysis of Tech Gadget Sales with Pandas](https://github.com/dark-teal-coder/ttr-py-data-analysis-pandas-gadget-sales)
+    - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "ttr-py-data-analysis-pandas-gadget-sales" repository
+- [Python Data Analysis of Titanic Survival with Pandas](https://github.com/dark-teal-coder/project-data-analysis-pandas-titanic-survival)
+    - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "project-data-analysis-pandas-titanic-survival" repository
+- [AWS S3 Website Responsive Birthday E-card](https://github.com/dark-teal-coder/aws-s3-web-birthday-ecard)
+    - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "aws-s3-web-birthday-ecard" repository
+- [Introduction to Data Analysis Using Microsoft Excel](https://github.com/dark-teal-coder/web-introduction-to-data-analysis-using-microsoft-excel)
+    - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "web-introduction-to-data-analysis-using-microsoft-excel" repository
+- [Python PDF Tools](https://github.com/dark-teal-coder/project-python-pdf-tools)
+    - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "project-python-pdf-tools" repository
+- [LinkedIn Learning Course Summary Website](https://github.com/dark-teal-coder/web-linkedin-learning-course-summary/tree/main)
+    - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "web-linkedin-learning-course-summary" repository
+- [Responsive Xmas E-card 2024 Using GitHub Pages](https://github.com/dark-teal-coder/web-responsive-xmas-ecard-2024)
+    - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "web-responsive-xmas-ecard-2024" repository
+- [Demographic Data Analyzer](https://github.com/dark-teal-coder/freecodecamp-data-analysis-with-python/tree/main/03-data-analysis-with-python-projects/project-demographic-data-analyzer) (incomplete)
+    - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "freecodecamp-data-analysis-with-python" repository >> Choose "03-data-analysis-with-python-projects" sub-directory >> Choose "project-demographic-data-analyzer" sub-directory
+- [Mean-Variance-Standard Deviation Calculator](https://github.com/dark-teal-coder/freecodecamp-data-analysis-with-python/tree/main/03-data-analysis-with-python-projects/project-mean-variance-standard-deviation-calculator) (incomplete)
+    - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "freecodecamp-data-analysis-with-python" repository >> Choose "03-data-analysis-with-python-projects" sub-directory >> Choose "project-mean-variance-standard-deviation-calculator" sub-directory
+- [Medical Data Visualizer](https://github.com/dark-teal-coder/freecodecamp-data-analysis-with-python/tree/main/03-data-analysis-with-python-projects/project-medical-data-visualizer) (incomplete)
+    - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "freecodecamp-data-analysis-with-python" repository >> Choose "03-data-analysis-with-python-projects" sub-directory >> Choose "project-medical-data-visualizer" sub-directory
+- [Page View Time Series Visualizer](https://github.com/dark-teal-coder/freecodecamp-data-analysis-with-python/tree/main/03-data-analysis-with-python-projects/project-page-view-time-series-visualizer) (incomplete)
+    - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "freecodecamp-data-analysis-with-python" repository >> Choose "03-data-analysis-with-python-projects" sub-directory >> Choose "project-page-view-time-series-visualizer" sub-directory
+- [Sea Level Predictor](https://github.com/dark-teal-coder/freecodecamp-data-analysis-with-python/tree/main/03-data-analysis-with-python-projects/project-sea-level-predictor) (incomplete)
+    - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "freecodecamp-data-analysis-with-python" repository >> Choose "03-data-analysis-with-python-projects" sub-directory >> Choose "project-sea-level-predictor" sub-directory
+- [Arithmetic Formatter](https://github.com/dark-teal-coder/freecodecamp-scientific-computing-with-python/tree/main/02-scientific-computing-with-python-projects/project-arithmetic-formatter) (incomplete)
+    - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "freecodecamp-scientific-computing-with-python" repository >> Choose "02-scientific-computing-with-python-projects" sub-directory >> Choose "project-arithmetic-formatter" sub-directory
+- [Budget App](https://github.com/dark-teal-coder/freecodecamp-scientific-computing-with-python/tree/main/02-scientific-computing-with-python-projects/project-budget-app) (incomplete)
+    - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "freecodecamp-scientific-computing-with-python" repository >> Choose "02-scientific-computing-with-python-projects" sub-directory >> Choose "project-budget-app" sub-directory
+- [Polygon Area Calculator](https://github.com/dark-teal-coder/freecodecamp-scientific-computing-with-python/tree/main/02-scientific-computing-with-python-projects/project-polygon-area-calculator) (incomplete)
+    - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "freecodecamp-scientific-computing-with-python" repository >> Choose "02-scientific-computing-with-python-projects" sub-directory >> Choose "project-polygon-area-calculator" sub-directory
+- [Probability Calculator](https://github.com/dark-teal-coder/freecodecamp-scientific-computing-with-python/tree/main/02-scientific-computing-with-python-projects/project-probability-calculator) (incomplete)
+    - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "freecodecamp-scientific-computing-with-python" repository >> Choose "02-scientific-computing-with-python-projects" sub-directory >> Choose "project-probability-calculator" sub-directory
+- [Time Calculator](https://github.com/dark-teal-coder/freecodecamp-scientific-computing-with-python/tree/main/02-scientific-computing-with-python-projects/project-time-calculator) (incomplete)
+    - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "freecodecamp-scientific-computing-with-python" repository >> Choose "02-scientific-computing-with-python-projects" sub-directory >> Choose "project-time-calculator" sub-directory
+
 # Coding Matters :woman_technologist:
 
 ## ![Python badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) Python `.py` & `.ipynb`
@@ -129,47 +170,6 @@ I learned SQL in the course IS2240 Python Programming for Business when I did my
 ## Groovy `.groovy`
 ### Description
 I learned Groovy from work when I did automated testing for a company website in Katalon Studio.
-
-# Project Matters
-
-- [Job Bank Web Scraper and Data Analyzer](https://github.com/dark-teal-coder/edu-postgrad-harvard/tree/main/introduction-to-programming-with-python/project)
-    - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "edu-postgrad-harvard" repository >> Choose "introduction-to-programming-with-python" sub-directory >> Choose "project" sub-directory
-- [Python Data Visualization of Top Car Horsepower with Bokeh](https://github.com/dark-teal-coder/ttr-py-data-vis-bokeh-car-horsepower)
-    - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "ttr-py-data-vis-bokeh-car-horsepower" repository
-- [Python Data Analysis of Tech Gadget Sales with Pandas](https://github.com/dark-teal-coder/ttr-py-data-analysis-pandas-gadget-sales)
-    - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "ttr-py-data-analysis-pandas-gadget-sales" repository
-- [Python Data Analysis of Titanic Survival with Pandas](https://github.com/dark-teal-coder/project-data-analysis-pandas-titanic-survival)
-    - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "project-data-analysis-pandas-titanic-survival" repository
-- [AWS S3 Website Responsive Birthday E-card](https://github.com/dark-teal-coder/aws-s3-web-birthday-ecard)
-    - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "aws-s3-web-birthday-ecard" repository
-- [Introduction to Data Analysis Using Microsoft Excel](https://github.com/dark-teal-coder/web-introduction-to-data-analysis-using-microsoft-excel)
-    - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "web-introduction-to-data-analysis-using-microsoft-excel" repository
-- [Python PDF Tools](https://github.com/dark-teal-coder/project-python-pdf-tools)
-    - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "project-python-pdf-tools" repository
-- [LinkedIn Learning Course Summary Website](https://github.com/dark-teal-coder/web-linkedin-learning-course-summary/tree/main)
-    - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "web-linkedin-learning-course-summary" repository
-- [Responsive Xmas E-card 2024 Using GitHub Pages](https://github.com/dark-teal-coder/web-responsive-xmas-ecard-2024)
-    - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "web-responsive-xmas-ecard-2024" repository
-- [Demographic Data Analyzer](https://github.com/dark-teal-coder/freecodecamp-data-analysis-with-python/tree/main/03-data-analysis-with-python-projects/project-demographic-data-analyzer) (incomplete)
-    - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "freecodecamp-data-analysis-with-python" repository >> Choose "03-data-analysis-with-python-projects" sub-directory >> Choose "project-demographic-data-analyzer" sub-directory
-- [Mean-Variance-Standard Deviation Calculator](https://github.com/dark-teal-coder/freecodecamp-data-analysis-with-python/tree/main/03-data-analysis-with-python-projects/project-mean-variance-standard-deviation-calculator) (incomplete)
-    - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "freecodecamp-data-analysis-with-python" repository >> Choose "03-data-analysis-with-python-projects" sub-directory >> Choose "project-mean-variance-standard-deviation-calculator" sub-directory
-- [Medical Data Visualizer](https://github.com/dark-teal-coder/freecodecamp-data-analysis-with-python/tree/main/03-data-analysis-with-python-projects/project-medical-data-visualizer) (incomplete)
-    - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "freecodecamp-data-analysis-with-python" repository >> Choose "03-data-analysis-with-python-projects" sub-directory >> Choose "project-medical-data-visualizer" sub-directory
-- [Page View Time Series Visualizer](https://github.com/dark-teal-coder/freecodecamp-data-analysis-with-python/tree/main/03-data-analysis-with-python-projects/project-page-view-time-series-visualizer) (incomplete)
-    - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "freecodecamp-data-analysis-with-python" repository >> Choose "03-data-analysis-with-python-projects" sub-directory >> Choose "project-page-view-time-series-visualizer" sub-directory
-- [Sea Level Predictor](https://github.com/dark-teal-coder/freecodecamp-data-analysis-with-python/tree/main/03-data-analysis-with-python-projects/project-sea-level-predictor) (incomplete)
-    - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "freecodecamp-data-analysis-with-python" repository >> Choose "03-data-analysis-with-python-projects" sub-directory >> Choose "project-sea-level-predictor" sub-directory
-- [Arithmetic Formatter](https://github.com/dark-teal-coder/freecodecamp-scientific-computing-with-python/tree/main/02-scientific-computing-with-python-projects/project-arithmetic-formatter) (incomplete)
-    - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "freecodecamp-scientific-computing-with-python" repository >> Choose "02-scientific-computing-with-python-projects" sub-directory >> Choose "project-arithmetic-formatter" sub-directory
-- [Budget App](https://github.com/dark-teal-coder/freecodecamp-scientific-computing-with-python/tree/main/02-scientific-computing-with-python-projects/project-budget-app) (incomplete)
-    - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "freecodecamp-scientific-computing-with-python" repository >> Choose "02-scientific-computing-with-python-projects" sub-directory >> Choose "project-budget-app" sub-directory
-- [Polygon Area Calculator](https://github.com/dark-teal-coder/freecodecamp-scientific-computing-with-python/tree/main/02-scientific-computing-with-python-projects/project-polygon-area-calculator) (incomplete)
-    - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "freecodecamp-scientific-computing-with-python" repository >> Choose "02-scientific-computing-with-python-projects" sub-directory >> Choose "project-polygon-area-calculator" sub-directory
-- [Probability Calculator](https://github.com/dark-teal-coder/freecodecamp-scientific-computing-with-python/tree/main/02-scientific-computing-with-python-projects/project-probability-calculator) (incomplete)
-    - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "freecodecamp-scientific-computing-with-python" repository >> Choose "02-scientific-computing-with-python-projects" sub-directory >> Choose "project-probability-calculator" sub-directory
-- [Time Calculator](https://github.com/dark-teal-coder/freecodecamp-scientific-computing-with-python/tree/main/02-scientific-computing-with-python-projects/project-time-calculator) (incomplete)
-    - Go to github.com/dark-teal-coder >> Click [Repositories] >> Choose "freecodecamp-scientific-computing-with-python" repository >> Choose "02-scientific-computing-with-python-projects" sub-directory >> Choose "project-time-calculator" sub-directory
 
 # IDE Matters
 
