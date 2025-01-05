@@ -28,6 +28,7 @@ Only selected courses are displayed below.
 | [Exam Prep: AWS Certified Cloud Practitioner Foundations](https://www.coursera.org/learn/cloud-practitioner-exam-prep) | Amazon Web Services | 2024/10/26 | NMU1ZOXJ8USF |
 | [HTML, CSS, and Javascript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers) | Johns Hopkins University | 2024/10/29 | Q2GI1KAASHFD |
 | [Introduction to Data Analysis using Microsoft Excel](https://www.coursera.org/projects/introduction-data-analysis-microsoft-excel) | Coursera Project Network | 2024/11/04 | 9E9CPA9B6JJ7 |
+| [Artificial Intelligence on Microsoft Azure](https://www.coursera.org/learn/artificial-intelligence-microsoft-azure) | Microsoft | 2025/01/04 | UCFL8TDPL315 |
 
 ## ![EdX](https://img.shields.io/badge/edX-02262B.svg?style=for-the-badge&logo=edx&logoColor=white)
 | **Course** | **Offered By** | **Completion Date** | **Certificate** |
