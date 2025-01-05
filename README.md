@@ -48,19 +48,19 @@ Only selected courses are displayed below.
 | [Introduction to Java](https://www.sololearn.com/en/learn/courses/java-introduction) | 2024/03/07 | CC-AUL6EMM2 |
 
 ## ![LinkedIn Learning](https://img.shields.io/badge/-LinkedIn%20Learning-0072b1.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-| **Course** | **Completion Date** | **Certificate** |
+| **Course** | **Completion Date** | **Certificate ID** |
 |:-----------|:-------------------:|:---------------:|
-| [43 Ideas for Starting a Side Business](https://www.linkedin.com/learning/43-ideas-for-starting-a-side-business) | 2021/07/21 | [Certificate](https://github.com/dark-teal-coder/certificates) |
-| [Developing a YouTube Strategy](https://www.linkedin.com/learning/developing-a-youtube-strategy) | 2021/08/06 | [Certificate](https://github.com/dark-teal-coder/certificates) |
-| [Giving Your Elevator Pitch](https://www.linkedin.com/learning/giving-your-elevator-pitch) | 2021/08/28 | [Certificate](https://github.com/dark-teal-coder/certificates) |
-| [Guy Kawasaki on Entrepreneurship](https://www.linkedin.com/learning/guy-kawasaki-on-entrepreneurship) | 2021/07/27 | [Certificate](https://github.com/dark-teal-coder/certificates) |
-| [Learning FTP](https://www.linkedin.com/learning/learning-sftp) | 2021/07/29 | [Certificate](https://github.com/dark-teal-coder/certificates) |
-| [The Practices of High-Performing Employees](https://www.linkedin.com/learning/the-practices-of-high-performing-employees) | 2021/07/28 | [Certificate](https://github.com/dark-teal-coder/certificates) |
-| [Understanding Business](https://www.linkedin.com/learning/understanding-business) | 2021/09/03 | [Certificate](https://github.com/dark-teal-coder/certificates) |
-| [Women Transforming Tech: Breaking Bias](https://www.linkedin.com/learning/women-transforming-tech-breaking-bias-2) | 2021/08/04 | [Certificate](https://github.com/dark-teal-coder/certificates) |
-| [Women Transforming Tech: Building Your Brand](https://www.linkedin.com/learning/women-transforming-tech-building-your-brand) | 2021/08/02 | [Certificate](https://github.com/dark-teal-coder/certificates) |
-| [Women Transforming Tech: Career Insights](https://www.linkedin.com/learning/women-transforming-tech-career-insights) | 2021/08/07 | [Certificate](https://github.com/dark-teal-coder/certificates) |
-| [Women Transforming Tech: Networking](https://www.linkedin.com/learning/women-transforming-tech-networking) | 2021/08/25 | [Certificate](https://github.com/dark-teal-coder/certificates) |
+| [43 Ideas for Starting a Side Business](https://www.linkedin.com/learning/43-ideas-for-starting-a-side-business) | 2021/07/21 | - |
+| [Developing a YouTube Strategy](https://www.linkedin.com/learning/developing-a-youtube-strategy) | 2021/08/06 | - |
+| [Giving Your Elevator Pitch](https://www.linkedin.com/learning/giving-your-elevator-pitch) | 2021/08/28 | - |
+| [Guy Kawasaki on Entrepreneurship](https://www.linkedin.com/learning/guy-kawasaki-on-entrepreneurship) | 2021/07/27 | - |
+| [Learning FTP](https://www.linkedin.com/learning/learning-sftp) | 2021/07/29 | - |
+| [The Practices of High-Performing Employees](https://www.linkedin.com/learning/the-practices-of-high-performing-employees) | 2021/07/28 | - |
+| [Understanding Business](https://www.linkedin.com/learning/understanding-business) | 2021/09/03 | - |
+| [Women Transforming Tech: Breaking Bias](https://www.linkedin.com/learning/women-transforming-tech-breaking-bias-2) | 2021/08/04 | - |
+| [Women Transforming Tech: Building Your Brand](https://www.linkedin.com/learning/women-transforming-tech-building-your-brand) | 2021/08/02 | - |
+| [Women Transforming Tech: Career Insights](https://www.linkedin.com/learning/women-transforming-tech-career-insights) | 2021/08/07 | - |
+| [Women Transforming Tech: Networking](https://www.linkedin.com/learning/women-transforming-tech-networking) | 2021/08/25 | - |
 
 For course summaries, please visit [LinkedIn Learning Course Summary](https://dark-teal-coder.github.io/web-linkedin-learning-course-summary/).
 
