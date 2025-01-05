@@ -65,26 +65,26 @@ Only selected courses are displayed below.
 For course summaries, please visit [LinkedIn Learning Course Summary](https://dark-teal-coder.github.io/web-linkedin-learning-course-summary/).
 
 ## ![Real Python](https://img.shields.io/badge/-Real%20Python-18354C.svg?style=for-the-badge&logo=python&logoColor=white)
-| **Course** | **Completion Date** | **Certificate** |
+| **Course** | **Completion Date** | **Certificate ID** |
 |:-----------|:-------------------:|:---------------:|
-| [Welcome to Real Python!](https://realpython.com/courses/real-python-welcome) | 2021/07/24 | [Certificate]() |
-| [Basic Data Types in Python](https://realpython.com/courses/python-data-types) | 2021/08/27 | [Certificate]() |
-| [How to Write Pythonic Loops](https://realpython.com/courses/how-to-write-pythonic-loops) | 2021/12/01 | [Certificate]() |
-| [Using List Comprehensions Effectively](https://realpython.com/courses/using-list-comprehensions-effectively) | 2021/12/01 | [Certificate]() |
-| [Convert a Python String to int](https://realpython.com/courses/convert-python-string-int) | 2021/12/01 | [Certificate]() |
-| [Conditional Statements in Python (if/elif/else)](https://realpython.com/courses/python-conditional-statements) | 2022/06/08 | [Certificate]() |
-| [Web Scraping With Beautiful Soup and Python](https://realpython.com/courses/web-scraping-beautiful-soup/) | 2022/06/14 | [Certificate]() |
-| [Start Managing Multiple Python Versions With pyenv](https://realpython.com/courses/start-with-pyenv) | 2022/06/18 | [Certificate]() |
-| [Migrating Applications From Python 2 to Python 3](https://realpython.com/courses/migrating-applications-python-2-python-3) | 2022/06/20 | [Certificate]() |
-| [Learn Text Classification With Python and Keras](https://realpython.com/courses/text-classification-with-keras) | 2022/06/20 | [Certificate]() |
-| [Speech Recognition With Python](https://realpython.com/courses/speech-recognition-python) | 2022/06/20 | [Certificate]() |
-| [Django Admin Customization](https://realpython.com/courses/django-admin-customization) | 2022/06/20 | [Certificate]() |
-| [Understanding Python List Comprehensions](https://realpython.com/courses/understand-list-comprehensions) | 2022/06/21 | [Certificate]() |
-| [Speed Up Python With Concurrency](https://realpython.com/courses/speed-python-concurrency/) | 2022/06/21 | [Certificate]() |
-| [Functional Programming in Python](https://realpython.com/courses/functional-programming-python) | 2022/07/02 | [Certificate]() |
-| [Building HTTP APIs With Django REST Framework](https://realpython.com/courses/django-rest-framework) | 2022/07/05 | [Certificate]() |
-| [Using Pandas to Make a Gradebook in Python](https://realpython.com/courses/gradebook-using-pandas-python) | 2022/08/22 | [Certificate]() |
-| [Unicode in Python: Working With Character Encodings](https://realpython.com/courses/python-unicode) | 2022/08/27 | [Certificate]() |
+| [Welcome to Real Python!](https://realpython.com/courses/real-python-welcome) | 2021/07/24 | - |
+| [Basic Data Types in Python](https://realpython.com/courses/python-data-types) | 2021/08/27 | - |
+| [How to Write Pythonic Loops](https://realpython.com/courses/how-to-write-pythonic-loops) | 2021/12/01 | - |
+| [Using List Comprehensions Effectively](https://realpython.com/courses/using-list-comprehensions-effectively) | 2021/12/01 | - |
+| [Convert a Python String to int](https://realpython.com/courses/convert-python-string-int) | 2021/12/01 | - |
+| [Conditional Statements in Python (if/elif/else)](https://realpython.com/courses/python-conditional-statements) | 2022/06/08 | - |
+| [Web Scraping With Beautiful Soup and Python](https://realpython.com/courses/web-scraping-beautiful-soup/) | 2022/06/14 | - |
+| [Start Managing Multiple Python Versions With pyenv](https://realpython.com/courses/start-with-pyenv) | 2022/06/18 | - |
+| [Migrating Applications From Python 2 to Python 3](https://realpython.com/courses/migrating-applications-python-2-python-3) | 2022/06/20 | - |
+| [Learn Text Classification With Python and Keras](https://realpython.com/courses/text-classification-with-keras) | 2022/06/20 | - |
+| [Speech Recognition With Python](https://realpython.com/courses/speech-recognition-python) | 2022/06/20 | - |
+| [Django Admin Customization](https://realpython.com/courses/django-admin-customization) | 2022/06/20 | - |
+| [Understanding Python List Comprehensions](https://realpython.com/courses/understand-list-comprehensions) | 2022/06/21 | - |
+| [Speed Up Python With Concurrency](https://realpython.com/courses/speed-python-concurrency/) | 2022/06/21 | - |
+| [Functional Programming in Python](https://realpython.com/courses/functional-programming-python) | 2022/07/02 | - |
+| [Building HTTP APIs With Django REST Framework](https://realpython.com/courses/django-rest-framework) | 2022/07/05 | - |
+| [Using Pandas to Make a Gradebook in Python](https://realpython.com/courses/gradebook-using-pandas-python) | 2022/08/22 | - |
+| [Unicode in Python: Working With Character Encodings](https://realpython.com/courses/python-unicode) | 2022/08/27 | - |
 
 # Project Matters
 
