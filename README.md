@@ -42,10 +42,10 @@ Only selected courses are displayed below.
 | [Scientific Computing with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python) | 0000/00/00 | [Certificate]() (missing URL) |
 
 ## ![SoloLearn](https://img.shields.io/badge/-Sololearn-8252DE.svg?style=for-the-badge&logo=Sololearn&logoColor=white)
-| **Course** | **Completion Date** | **Certificate** |
+| **Course** | **Completion Date** | **Certificate ID** |
 |:-----------|:-------------------:|:---------------:|
-| [SQL](https://www.sololearn.com/learning/1060) | 2017/11/29 | [Certificate](https://github.com/dark-teal-coder/certificates) |
-| [Introduction to Java](https://www.sololearn.com/en/learn/courses/java-introduction) | 2024/03/07 | [Certificate](https://github.com/dark-teal-coder/certificates) |
+| [SQL](https://www.sololearn.com/learning/1060) | 2017/11/29 |  |
+| [Introduction to Java](https://www.sololearn.com/en/learn/courses/java-introduction) | 2024/03/07 | CC-AUL6EMM2 |
 
 ## ![LinkedIn Learning](https://img.shields.io/badge/-LinkedIn%20Learning-0072b1.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 | **Course** | **Completion Date** | **Certificate** |
