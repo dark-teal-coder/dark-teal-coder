@@ -36,10 +36,10 @@ Only selected courses are displayed below.
 | [Python Basics for Data Science](https://www.edx.org/course/python-basics-for-data-science) | IBM | 2019/12/28 | 3a26889633134fd29504a49429c8849d |
 
 ## ![freeCodeCamp](https://img.shields.io/badge/freecodecamp-27273D.svg?style=for-the-badge&logo=freecodecamp&logoColor=white)
-| **Course** | **Completion Date** | **Certificate** |
+| **Course** | **Completion Date** | **Certificate ID** |
 |:-----------|:-------------------:|:---------------:|
-| [Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python) | 0000/00/00 | [Certificate]() (missing URL) |
-| [Scientific Computing with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python) | 0000/00/00 | [Certificate]() (missing URL) |
+| [Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python) | 0000/00/00 | - |
+| [Scientific Computing with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python) | 0000/00/00 | - |
 
 ## ![SoloLearn](https://img.shields.io/badge/-Sololearn-8252DE.svg?style=for-the-badge&logo=Sololearn&logoColor=white)
 | **Course** | **Completion Date** | **Certificate ID** |
