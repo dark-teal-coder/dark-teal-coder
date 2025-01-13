@@ -52,7 +52,7 @@ Only selected courses are displayed below.
 |:-----------|:-------------------:|:---------------:|
 | [43 Ideas for Starting a Side Business](https://www.linkedin.com/learning/43-ideas-for-starting-a-side-business) | 2021/07/21 | Acj1W-LFXmLYhOBfw2EivPtJoe6A |
 | [Developing a YouTube Strategy](https://www.linkedin.com/learning/developing-a-youtube-strategy) | 2021/08/06 | ASQDGpM-wnpVb_kWlz6PvSF66MLs |
-| [Giving Your Elevator Pitch](https://www.linkedin.com/learning/giving-your-elevator-pitch) | 2021/08/28 | - |
+| [Giving Your Elevator Pitch](https://www.linkedin.com/learning/giving-your-elevator-pitch) | 2021/08/28 | ARk9dUHC7O-Lf4VXCoexGCZPrC2J |
 | [Guy Kawasaki on Entrepreneurship](https://www.linkedin.com/learning/guy-kawasaki-on-entrepreneurship) | 2021/07/27 | - |
 | [Learning FTP](https://www.linkedin.com/learning/learning-sftp) | 2021/07/29 | - |
 | [The Practices of High-Performing Employees](https://www.linkedin.com/learning/the-practices-of-high-performing-employees) | 2021/07/28 | - |
