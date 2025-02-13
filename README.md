@@ -55,7 +55,7 @@ Only selected courses are displayed below.
 | [Giving Your Elevator Pitch](https://www.linkedin.com/learning/giving-your-elevator-pitch) | 2021/08/28 | ARk9dUHC7O-Lf4VXCoexGCZPrC2J |
 | [Guy Kawasaki on Entrepreneurship](https://www.linkedin.com/learning/guy-kawasaki-on-entrepreneurship) | 2021/07/27 | ATLmqUE8ibuNA19qx_IbHIlaPo4o |
 | [Learning FTP](https://www.linkedin.com/learning/learning-sftp) | 2021/07/29 | AUD05V6nIvOfNI1o26KypGoxByMr |
-| [The Practices of High-Performing Employees](https://www.linkedin.com/learning/the-practices-of-high-performing-employees) | 2021/07/28 | - |
+| [The Practices of High-Performing Employees](https://www.linkedin.com/learning/the-practices-of-high-performing-employees) | 2021/07/28 | AZynYS76-fS7MaJotB4dtXfwTGP2 |
 | [Understanding Business](https://www.linkedin.com/learning/understanding-business) | 2021/09/03 | - |
 | [Women Transforming Tech: Breaking Bias](https://www.linkedin.com/learning/women-transforming-tech-breaking-bias-2) | 2021/08/04 | - |
 | [Women Transforming Tech: Building Your Brand](https://www.linkedin.com/learning/women-transforming-tech-building-your-brand) | 2021/08/02 | - |
