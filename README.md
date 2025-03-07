@@ -39,7 +39,7 @@ Only selected courses are displayed below.
 | **Course** | **Completion Date** | **Certificate ID** |
 |:-----------|:-------------------:|:---------------:|
 | [Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python) | 0000/00/00 | - |
-| [Scientific Computing with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python) | 0000/00/00 | - |
+| [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/) | 0000/00/00 | - |
 
 ## ![SoloLearn](https://img.shields.io/badge/-Sololearn-8252DE.svg?style=for-the-badge&logo=Sololearn&logoColor=white)
 | **Course** | **Completion Date** | **Certificate ID** |
