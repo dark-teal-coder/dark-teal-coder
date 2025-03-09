@@ -59,7 +59,7 @@ Only selected courses are displayed below.
 | [Understanding Business](https://www.linkedin.com/learning/understanding-business) | 2021/09/03 | ATEs2BcnoTWf4YBIQDBRwWVi2Vxm |
 | [Women Transforming Tech: Breaking Bias](https://www.linkedin.com/learning/women-transforming-tech-breaking-bias-2) | 2021/08/04 | AfOirJv7o88n6FbE9XfjE4vyDXlS |
 | [Women Transforming Tech: Building Your Brand](https://www.linkedin.com/learning/women-transforming-tech-building-your-brand) | 2021/08/02 | AbnA0WMCoFdecsZTyvdP5xMJh7EF |
-| [Women Transforming Tech: Career Insights](https://www.linkedin.com/learning/women-transforming-tech-career-insights) | 2021/08/07 | - |
+| [Women Transforming Tech: Career Insights](https://www.linkedin.com/learning/women-transforming-tech-career-insights) | 2021/08/07 | ARVXkAS-L5LzTO15tuQbd6uOzM5D |
 | [Women Transforming Tech: Networking](https://www.linkedin.com/learning/women-transforming-tech-networking) | 2021/08/25 | - |
 
 For course summaries, please visit [LinkedIn Learning Course Summary](https://dark-teal-coder.github.io/web-linkedin-learning-course-summary/).
