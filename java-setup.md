@@ -9,7 +9,7 @@ Operating System (OS): Windows
 6. Click "Next".
 7. Click "Close". <br>![image](https://github.com/user-attachments/assets/b73af54f-4154-4b72-8d45-7d7858aec601)
 
-To check if Java has successfully been installed, type `java -version` into the Command Prompt.
+To check if Java has successfully been installed, type `java -version` into the Command Prompt or PowerShell.
 
 # Steps to Write a Simple Java Program in a Text Editor: 
 1. Open a text editor (e.g., Notepad++).
