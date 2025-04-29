@@ -24,7 +24,7 @@ public class DarkTealCoder
     }
 }
 ```
-3. Save it as "DarkTealCoder.java".
+3. Save it as "DarkTealCoder.java" (file name same as class name).
 4. Open the Command Prompt or PowerShell.
 5. Use the `cd` command to navigate to the `.java` file location.
 6. Type `javac DarkTealCoder.java` to compile the `.java` file into a `.class` file.
