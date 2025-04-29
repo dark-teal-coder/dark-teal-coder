@@ -7,8 +7,7 @@ Operating System (OS): Windows
 4. Click "Next". <br>![image](https://github.com/user-attachments/assets/99484773-7e42-4412-ab43-bd4f9d7f39f7)
 5. Click "Change" to change the installation folder.
 6. Click "Next".
-7. Click "Close".
-![image](https://github.com/user-attachments/assets/b73af54f-4154-4b72-8d45-7d7858aec601)
+7. Click "Close". <br>![image](https://github.com/user-attachments/assets/b73af54f-4154-4b72-8d45-7d7858aec601)
 
 To check if Java has successfully been installed, type `java -version` into the Command Prompt.
 
