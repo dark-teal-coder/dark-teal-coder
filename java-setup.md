@@ -44,8 +44,7 @@ public class DarkTealCoder
 9. Right-click on "src".
 10. Click "New".
 11. Click "File".
-12. Enter "DarkTealCoder.java" as the file name.
-![image](https://github.com/user-attachments/assets/dd743045-68a9-4fe6-a943-4eea2d326e9f)
+12. Enter "DarkTealCoder.java" as the file name. <br>![image](https://github.com/user-attachments/assets/dd743045-68a9-4fe6-a943-4eea2d326e9f)
 13. Click "Finish".
 14. Double-click "DarkTealCoder.java".
 15. Copy and paste the following code into the file:
