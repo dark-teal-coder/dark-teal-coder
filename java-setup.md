@@ -39,13 +39,14 @@ public class DarkTealCoder
 6. Choose the correct JRE.
 7. Click "Finish".
 8. When asked if you want to create `module-info.java`, click "Don't Create".
-9. Right-click on "src".
-10. Click "New".
-11. Click "File".
-12. Enter "DarkTealCoder.java" as the file name. <br>![image](https://github.com/user-attachments/assets/dd743045-68a9-4fe6-a943-4eea2d326e9f)
-13. Click "Finish".
-14. Double-click "DarkTealCoder.java".
-15. Copy and paste the following code into the file:
+9. Under "Package Explorer", expand the newly created project.
+10. Right-click on "src".
+11. Click "New".
+12. Click "File".
+13. Enter "DarkTealCoder.java" as the file name (file name same as class name). <br>![image](https://github.com/user-attachments/assets/dd743045-68a9-4fe6-a943-4eea2d326e9f)
+14. Click "Finish".
+15. Open the `.java` file under "src".
+16. Copy and paste the following code into the file:
 ```
 // Simple Java program
 public class DarkTealCoder
@@ -56,5 +57,5 @@ public class DarkTealCoder
     }
 }
 ```
-16. Press "ctrl" + "s".
-17. Click "Run".
+16. Press "Ctrl" + "s".
+17. Click the "Run" button.
