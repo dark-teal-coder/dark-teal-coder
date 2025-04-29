@@ -1,4 +1,7 @@
 Operating System (OS): Windows
+Java Version: v24.0.1
+Text Editor: Notepad++ v8.6.2
+IDE: Eclipse IDE for Java 2021-09
 
 # Steps to Install Java on Windows: 
 1. Go to [https://www.oracle.com/hk/java/technologies/downloads/](https://www.oracle.com/hk/java/technologies/downloads/#jdk24-windows).
