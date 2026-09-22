@@ -4,7 +4,7 @@ How to clone a new laptop from a seed or pre-configured image on an external har
 2.	When turning on the laptop, press [F12] to enter "Boot Menu". 
 3.	A menu will appear listing bootable devices. Select your hard drive (e.g., “USD HDD…”). 
 4.	This will launch the imaging environment (e.g., Clonezilla). 
-5.	Choose language (e.g., [English]).
+5.	Choose language (e.g., "English").
 6.	Choose keyboard layout (e.g., [Keep the default keyboard layout]).
 7.	Choose [Start Clonezilla]. 
 8.	To put the seed or image on your external hard disk onto the laptop's internal storage and use it to clone a disk, select [device-image…]. 
