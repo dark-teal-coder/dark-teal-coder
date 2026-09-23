@@ -2,7 +2,7 @@
 
 1.	Click [File].
 2.	Click [Preferences].
-3.	Click [Locations]. <br>![image](./images/lotus-notes-id-locations.jpg)
+3.	Click [Locations]. <br>![lotus-notes-id-locations.jpg](./images/lotus-notes-id-locations.jpg)
 4.	Select the location name.
 5.	Click [Edit].
 6.	Click [Advanced] tab.
