@@ -6,4 +6,4 @@
 4.	Select the location name.
 5.	Click [Edit].
 6.	Click [Advanced] tab.
-7.	You can find the ID file (.id file) path next to “User ID to switch to” (usually at C:\Lotus\Notes\Data). <br>![lotus-notes-id-locations.jpg](./images/lotus-notes-id-file-path.png)
+7.	You can find the ID file (.id file) path next to “User ID to switch to” (usually at C:\Lotus\Notes\Data). <br>![lotus-notes-id-file-path.jpg](./images/lotus-notes-id-file-path.jpg)
