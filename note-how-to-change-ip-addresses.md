@@ -4,9 +4,9 @@ How to Change IP Addresses
 2.	Click “Network and Sharing Center”.
 3.	Click “Change adapter settings”.
 4.	Right-click your network connection (Ethernet or Wi-Fi) and select “Properties”.
-5.	Choose “Internet Protocol Version 4 (TCP/IPv4)” <br>![lotus-notes-id-locations.jpg](./images/lotus-notes-id-locations.jpg)
+5.	Choose “Internet Protocol Version 4 (TCP/IPv4)” <br>![how-to-change-ip-addresses-01.png](./images/how-to-change-ip-addresses-01.png)
 6.	Click “Properties”.
-7.	Select “Use the following IP address”. <br>![lotus-notes-id-locations.jpg](./images/lotus-notes-id-locations.jpg)
+7.	Select “Use the following IP address”. <br>![how-to-change-ip-addresses-01.png](./images/how-to-change-ip-addresses-01.png)
 8.	Change IP address next to “IP address”.
 9.	Click “OK”.
 10.	Click “Close”.
