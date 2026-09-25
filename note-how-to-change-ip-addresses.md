@@ -6,7 +6,7 @@ How to Change IP Addresses
 4.	Right-click your network connection (Ethernet or Wi-Fi) and select “Properties”.
 5.	Choose “Internet Protocol Version 4 (TCP/IPv4)” <br>![how-to-change-ip-addresses-01.png](./images/how-to-change-ip-addresses-01.png)
 6.	Click “Properties”.
-7.	Select “Use the following IP address”. <br>![how-to-change-ip-addresses-01.png](./images/how-to-change-ip-addresses-01.png)
+7.	Select “Use the following IP address”. <br>![how-to-change-ip-addresses-02.jpg](./images/how-to-change-ip-addresses-02.jpg)
 8.	Change IP address next to “IP address”.
 9.	Click “OK”.
 10.	Click “Close”.
