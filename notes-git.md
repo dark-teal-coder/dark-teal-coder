@@ -111,9 +111,12 @@ git pull origin main --allow-unrelated-histories
 
 ### Error: `git : The term 'git' is not recognized as the name of a cmdlet, function, script file, or operable program.`
 
-<ins>Cause</ins>: Git is either not installed on your computer, or it is not added to your system's PATH environment variable. Your terminal doesn't know where to find the git program.
+<ins>Cause</ins>: Git is either not installed on your computer, or it is not added to your system's PATH environment variable. Your command-line interface (CLI) doesn't know where to find the git program.
 <br />
 <ins>Fix</ins>: Install Git or add Git to Your Windows PATH:
-```
-
-```
+1. Press the Windows Key, type "env", and select [Edit the system environment variables].
+2. On "Advanced" tab, click the [Environment Variables] button.
+3. Under "System variables", find and select "Path", then click [Edit].
+4. Click [New] and paste the path to your Git "cmd" folder (usually `C:\Program Files\Git\cmd`). Click [New] again and add the "bin" folder (usually `C:\Program Files\Git\bin`). 
+5. Click [OK] on all open windows to save your changes.
+6. Close and reopen your CLI (or VS Code, if using its integrated terminal) for the changes to take effect.
