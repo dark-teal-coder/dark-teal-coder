@@ -108,3 +108,12 @@ git pull origin main
 ```
 git pull origin main --allow-unrelated-histories
 ```
+
+### Error: `git : The term 'git' is not recognized as the name of a cmdlet, function, script file, or operable program.`
+
+<ins>Cause</ins>: Git is either not installed on your computer, or it is not added to your system's PATH environment variable. Your terminal doesn't know where to find the git program.
+<br />
+<ins>Fix</ins>: Install Git or add Git to Your Windows PATH:
+```
+
+```
